@@ -1,0 +1,76 @@
+node_id,node_name,rank,lon,lat,latlon_str,latlon_delim_pos,faf_zone,OD,county_long,county_short,County_No
+1,Redding,1,-122.360642,40.58545,"40.58545,-122.360642",9,Rest of CA,1,Shasta County,Shasta,45
+2,Red Bluff,1,-122.224084,40.179209,"40.179209,-122.224084",10,Rest of CA,1,Tehama County,Tehama,52
+3,Dunnigan,2,-121.95345800000001,38.860841,"38.860841,-121.953458",10,None,0,Yolo County,Yolo,57
+4,Woodland,2,-121.755159,38.689871999999994,"38.689872,-121.755159",10,None,0,Yolo County,Yolo,57
+5,SMF,1,-121.59364,38.67109,"38.67109,-121.59364",9,Sacramento CA,1,Sacramento County,Sacramento,34
+6,Sacramento,1,-121.51149099999999,38.567917,"38.567917,-121.511491",10,Sacramento CA,1,Sacramento County,Sacramento,34
+7,Roseville,1,-121.27121399999999,38.743534999999994,"38.743535,-121.271214",10,Sacramento CA,1,Placer County,Placer,31
+8,Elk Grove,3,-121.388703,38.408947,"38.408947,-121.388703",10,None,0,Sacramento County,Sacramento,34
+9,Lodi,3,-121.257655,38.117952,"38.117952,-121.257655",10,None,0,San Joaquin County,San Joaquin,39
+10,Davis,2,-121.76796200000001,38.522138,"38.522138,-121.767962",10,None,0,Solano County,Solano,48
+11,Vacaville,2,-121.954351,38.372704999999996,"38.372705,-121.954351",10,None,0,Solano County,Solano,48
+12,Richmond,1,-122.32683600000001,37.935728000000005,"37.935728,-122.326836",10,San Francisco CA,1,Contra Costa County,Contra Costa,7
+13,Oakland,1,-122.279569,37.800501000000004,"37.800501,-122.279569",10,San Francisco CA,1,Alameda County,Alameda,1
+14,San Francisco,1,-122.4068,37.773857,"37.773857,-122.4068",10,San Francisco CA,1,SF,San Francisco,38
+15,Port of SF,1,-122.403985,37.748917999999996,"37.748918,-122.403985",10,San Francisco CA,1,SF,San Francisco,38
+16,SFO,1,-122.396905,37.613703,"37.613703,-122.396905",10,San Francisco CA,1,San Mateo County,San Mateo,41
+17,San Jose,1,-121.901155,37.363853000000006,"37.363853,-121.901155",10,San Francisco CA,1,Santa Clara County,Santa Clara,43
+18,Hayward,1,-122.09380800000001,37.644935,"37.644935,-122.093808",10,San Francisco CA,1,Alameda County,Alameda,1
+19,Stockton,1,-121.300953,37.948402,"37.948402,-121.300953",10,San Francisco CA,1,San Joaquin County,San Joaquin,39
+20,Tracy,2,-121.331654,37.767452,"37.767452,-121.331654",10,None,0,San Joaquin County,San Joaquin,39
+21,I-5 & CA-152,2,-120.97011299999998,37.056776,"37.056776,-120.970113",10,None,0,Merced County,Merced,24
+22,Wheeler Ridge,2,-118.950957,35.003797,"35.003797,-118.950957",10,None,0,Kern County,Kern,15
+23,Modesto,2,-121.007921,37.639928999999995,"37.639929,-121.007921",10,None,0,Stanislaus County,Stanislaus,50
+24,Merced,2,-120.49318799999999,37.300335,"37.300335,-120.493188",10,None,0,Merced County,Merced,24
+25,Fresno,1,-119.81573600000002,36.741149,"36.741149,-119.815736",10,Fresno CA,1,Fresno County,Fresno,10
+26,Bakersfield,3,-119.039648,35.353221999999995,"35.353222,-119.039648",10,None,0,Kern County,Kern,15
+27,San Fernando,2,-118.470854,34.294208000000005,"34.294208,-118.470854",10,None,0,Los Angeles County,Los Angeles,19
+28,Santa Monica,2,-118.43284799999999,34.030219,"34.030219,-118.432848",10,None,0,Los Angeles County,Los Angeles,19
+29,LAX,1,-118.368544,33.93098,"33.93098,-118.368544",9,Los Angeles CA,1,Los Angeles County,Los Angeles,19
+31,San Pedro Bay Ports,1,-118.208378,33.767051,"33.767051,-118.208378",10,Los Angeles CA,1,Los Angeles County,Los Angeles,19
+32,I-405 & I-710,2,-118.20772099999999,33.827017,"33.827017,-118.207721",10,None,0,Los Angeles County,Los Angeles,19
+33,Irvine,1,-117.730865,33.638946000000004,"33.638946,-117.730865",10,Los Angeles CA,1,Orange County,Orange,30
+34,East LA,2,-118.17320500000001,34.016108,"34.016108,-118.173205",10,None,0,Los Angeles County,Los Angeles,19
+35,Downtown LA,1,-118.214046,34.028853999999995,"34.028854,-118.214046",10,Los Angeles CA,1,Los Angeles County,Los Angeles,19
+36,Cal State LA,2,-118.16532600000001,34.061096,"34.061096,-118.165326",10,None,0,Los Angeles County,Los Angeles,19
+37,Ontario,1,-117.590824,34.067459,"34.067459,-117.590824",10,Los Angeles CA,1,San Bernardino County,San Bernardino,36
+38,Sun Valley,3,-118.41096399999999,34.233786,"34.233786,-118.410964",10,None,0,Los Angeles County,Los Angeles,19
+39,San Diego,1,-117.141815,32.700506,"32.700506,-117.141815",10,San Diego CA,1,San Diego County,San Diego,37
+40,Vallejo,3,-122.230531,38.091570000000004,"38.09157,-122.230531",9,None,0,Solano County,Solano,48
+41,San Mateo,2,-122.29676699999999,37.553878999999995,"37.553879,-122.296767",10,None,0,San Mateo County,San Mateo,41
+42,Gilroy,3,-121.55643899999998,37.002082,"37.002082,-121.556439",10,None,0,Santa Clara County,Santa Clara,43
+43,Chevron Firebaugh,3,-120.62201999999999,36.638199,"36.638199,-120.62202",10,None,0,Fresno County,Fresno,10
+44,Harris Ranch,3,-120.24353700000002,36.253328,"36.253328,-120.243537",10,None,0,Fresno County,Fresno,10
+45,Hillcrest Travel Plaza,3,-120.102623,36.076994,"36.076994,-120.102623",10,None,0,Fresno County,Fresno,10
+46,Kettleman City,3,-119.960425,35.981574,"35.981574,-119.960425",10,None,0,Kings County,Kings,16
+47,Lost Hills,3,-119.655239,35.618619,"35.618619,-119.655239",10,None,0,Kings County,Kings,16
+48,Buttonwillow,3,-119.399851,35.400492,"35.400492,-119.399851",10,None,0,Kern County,Kern,15
+49,Flag City,3,-121.399425,38.118615999999996,"38.118616,-121.399425",10,None,0,San Joaquin County,San Joaquin,39
+50,Ripon,3,-121.143354,37.752922,"37.752922,-121.143354",10,None,0,San Joaquin County,San Joaquin,39
+51,Livingston,3,-120.737311,37.390738,"37.390738,-120.737311",10,None,0,Merced County,Merced,24
+52,Chowchilla,3,-120.216793,37.098864,"37.098864,-120.216793",10,None,0,Madera County,Madera,20
+53,Pilot Travel Center Madera,3,-120.13083600000002,37.01997,"37.01997,-120.130836",9,None,0,Madera County,Madera,20
+54,Herndon,3,-119.91768300000001,36.83218,"36.83218,-119.917683",9,None,0,Fresno County,Fresno,10
+55,Malaga,3,-119.74309299999999,36.679182,"36.679182,-119.743093",10,None,0,Fresno County,Fresno,10
+56,Shell Truck Stop Fowler,3,-119.66340600000001,36.607239,"36.607239,-119.663406",10,None,0,Fresno County,Fresno,10
+57,Selma Valero Gas Staion,3,-119.596709,36.547321000000004,"36.547321,-119.596709",10,None,0,Fresno County,Fresno,10
+58,Traver,3,-119.49055,36.451963,"36.451963,-119.49055",10,None,0,Tulare County,Tulare,54
+59,Goshen,3,-119.427755,36.349499,"36.349499,-119.427755",10,None,0,Tulare County,Tulare,54
+60,Tulare,3,-119.328694,36.182342999999996,"36.182343,-119.328694",10,None,0,Tulare County,Tulare,54
+61,Tipton,3,-119.31098899999999,36.052756,"36.052756,-119.310989",10,None,0,Tulare County,Tulare,54
+62,Pixley,3,-119.292575,35.971757000000004,"35.971757,-119.292575",10,None,0,Tulare County,Tulare,54
+63,Earlimart,3,-119.27500500000001,35.893395,"35.893395,-119.275005",10,None,0,Tulare County,Tulare,54
+64,Akal Travel Plaza,3,-119.258981,35.820819,"35.820819,-119.258981",10,None,0,Tulare County,Tulare,54
+65,Flying J Travel Plaza Bakersfield,3,-119.18996899999999,35.53009,"35.53009,-119.189969",9,None,0,Kern County,Kern,15
+66,Bear Mountain Truck Stop,3,-119.01046000000001,35.208693,"35.208693,-119.01046",10,None,0,Kern County,Kern,15
+67,Lebec,3,-118.87378700000001,34.825707,"34.825707,-118.873787",10,None,0,Kern County,Kern,15
+68,Castaic,3,-118.622253,34.493555,"34.493555,-118.622253",10,None,0,Los Angeles County,Los Angeles,19
+69,Fontana,3,-117.438134,34.067083000000004,"34.067083,-117.438134",10,None,0,San Bernardino County,San Bernardino,36
+70,Oceanside,3,-117.38288,33.204365,"33.204365,-117.38288",10,None,0,San Diego County,San Diego,37
+71,Willows,3,-122.21488000000001,39.525656,"39.525656,-122.21488",10,None,0,Glenn County,Glenn,11
+72,Orland,3,-122.205669,39.750768,"39.750768,-122.205669",10,None,0,Glenn County,Glenn,11
+73,Rolling Hills Casino,3,-122.200252,39.88153,"39.88153,-122.200252",9,None,0,Tehama County,Tehama,52
+74,Corning,3,-122.200326,39.906843,"39.906843,-122.200326",10,None,0,Tehama County,Tehama,52
+75,Cottonwood,3,-122.28429799999999,40.367499,"40.367499,-122.284298",10,None,0,Tehama County,Tehama,52
+76,TA Redding,3,-122.33861399999999,40.506085999999996,"40.506086,-122.338614",10,None,0,Shasta County,Shasta,45
