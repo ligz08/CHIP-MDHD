@@ -216,8 +216,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/LongHaul_module/credentials/
-/Local_module/credentials/
+/LongHaul_module/credentials/*
+/Local_module/credentials/*
 .Rproj.user
 *.gdb
 /CHIP-MDHD.Rproj
+/Local_module/Scenario_*
+!/Local_module/Scenario_40KLocalFCETby2030/
+!/Local_module/Scenario_Template/
