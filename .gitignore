@@ -220,7 +220,12 @@ venv.bak/
 /Local_module/credentials/*
 .Rproj.user
 *.gdb
+*.zip
 /CHIP-MDHD.Rproj
 /Local_module/Scenario_*
 !/Local_module/Scenario_40KLocalFCETby2030/
 !/Local_module/Scenario_Template/
+
+# VisualStudioCode template
+.vscode
+
