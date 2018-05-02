@@ -18,7 +18,7 @@ hist_nhubs.served <- ggplot(data = d,
        aes(x=DemandCoun)) +
   geom_histogram(binwidth = 1, color='white') +
   scale_x_continuous(breaks = seq(1,15, by=2)) +
-  labs(x = 'Number of hubs served by station', y = 'Count of stations') + 
+  labs(x = 'Number of fleets served by station', y = 'Count of stations') + 
     theme_minimal()
 ggsave('2030 Histogram of fleets served.png', plot = hist_nhubs.served, width=5, height=3)
 
