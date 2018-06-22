@@ -3,9 +3,10 @@ library(ggmap)
 library(curl)
 library(jsonlite)
 library(tidyverse)
+library(here)
 
 # Set up working env
-local.module.dir <- getwd()
+local.module.dir <- here() %>% file.path('Local_module')
 active.scenario <- file.path(local.module.dir, 'active_scenario.txt') %>% read_file() %>% trimws()
 scenario.dir <- file.path(local.module.dir, active.scenario)
 input.dir <- file.path(scenario.dir, 'input')
