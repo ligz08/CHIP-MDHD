@@ -216,8 +216,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/LongHaul_module/credentials/*
-/Local_module/credentials/*
+*/credentials/*.txt
+
 .Rproj.user
 *.gdb
 *.zip
