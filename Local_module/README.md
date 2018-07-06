@@ -22,14 +22,14 @@ to refuel entire FCV fleets.
   Windows and Linux users can follow these steps too, but exact commands may differ.
 - In Windows, I recommend using [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6)
   instead of Command Prompt (`cmd`), 
-  since some software tools such as `wget` are available in PowerShell but not in `cmd`.
+  since some commands and software tools used here are available only in PowerShell.
   
 
 ## Step-by-step instructions:
 ### 1. Navigate to the `Local_module` directory.
 
 Use the `cd` command to navigate to the `Local_module` directory.
-Make sure `pwd` command gives you the following output:
+Make sure eventually `pwd` command gives you the following output:
 ```bash
 $ pwd
 <some_parent_directory>/CHIP-MDHD/Local_module
@@ -38,7 +38,7 @@ $ pwd
 ### 2. Prepare your scenario directory
 
 The scenario directory contains all the inputs, outputs, and intermediate files
-related to a scenario you want to analyze. 
+related to a scenario you analyze. 
 This is where you can customize your scenario inputs.
 
 The scenario directory should be named by its scenario name,
@@ -143,16 +143,17 @@ commands below are written for Windows PowerShell.
 PowerShell commands are denoted with a `>` character at the line beginning. 
 ---
 
-First, make sure you are running the Python executable that comes with ArcGIS.
+First, make sure your default Python executable is the one that comes with ArcGIS.
 To check this, run the following command:
 ```powershell
-> Get-Command python
+> Get-Command python | Select-Object Name,Path
 
-CommandType     Name                                               Version    Source
------------     ----                                               -------    ------
-Application     python.exe                                         0.0.0.0    C:\Python27\ArcGIS10.4\python.exe
+Name       Path
+----       ----
+python.exe C:\Python27\ArcGIS10.4\python.exe
 ```
-If the "Source" column shows a different path than `C:\Python27\ArcGIS*\python.exe`, that means your computer has another Python installation. This is OK, just remember to replace any `python` command in the following steps with the full path to the ArcGIS Python executable on you system (e.g. `C:\Python27\ArcGIS10.4\python.exe`)
+If the "Path" column shows a different path than `C:\Python27\ArcGIS*\python.exe`, that means your computer has another Python installation. 
+This is OK, just remember to replace any `python` command in the following steps with the full path to the ArcGIS Python executable on you system (e.g. `C:\Python27\ArcGIS10.4\python.exe`)
 
 Make sure again you are in the `Local_module` directory.
 In Windows PowerShell, you should see the following outputs from the `pwd` command:
