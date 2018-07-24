@@ -18,11 +18,8 @@ to refuel entire FCV fleets.
 - It is highly recommended to use the a 
   [command line interface](https://tutorial.djangogirls.org/en/intro_to_command_line/)
   when following these instructions.
-- The terminal commands (code lines starting with a `$`) here are primarily written for the macOS operating system.
-  Windows and Linux users can follow these steps too, but exact commands may differ.
-- In Windows, I recommend using [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6)
-  instead of Command Prompt (`cmd`), 
-  since some commands and software tools used here are available only in PowerShell.
+- On Windows, [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-6) is recommend.
+- Every command is denoted with a `>` symbol ahead of it
   
 
 ## Step-by-step instructions:
@@ -30,9 +27,13 @@ to refuel entire FCV fleets.
 
 Use the `cd` command to navigate to the `Local_module` directory.
 Make sure eventually `pwd` command gives you the following output:
-```bash
-$ pwd
-<some_parent_directory>/CHIP-MDHD/Local_module
+```powershell
+> pwd
+
+Path
+----
+C:\<some_parent_directory>\CHIP-MDHD\Local_module
+
 ```
 
 ### 2. Prepare your scenario directory
@@ -61,8 +62,8 @@ Scenario_Template/
 
 You may use our `Scenario_Template` to create new scenarios.
 Simply make a copy of the directory:
-```bash
-$ cp -r Scenario_Template New_Scenario
+```powershell
+> cp -r Scenario_Template New_Scenario
 ```
 Then modify contents in the `New_Scenario` directory.
 
@@ -73,42 +74,42 @@ Modify content of `active_scenario.txt` to the directory name
 of the scenario you want to perform analysis on. 
 For example, to set `Scenario_40KLocalFCETby2030` as active scenario, 
 you can run the following command:
-```bash
-$ echo 'Scenario_40KLocalFCETby2030' > active_scenario.txt  
+```powershell
+> echo 'Scenario_40KLocalFCETby2030' > active_scenario.txt  
 ```
 
 ### 4. Install required R packages
 
 The model depends on several R packages like `tidyverse`, `jsonlite`, and `ggmap`.
 You can install all needed R packages in one step by running the `install_packages.R` script in `CHIP-MDHD/Local_module/R/`.
-```bash
-$ Rscript R/install_packages.R
+```powershell
+> Rscript R/install_packages.R
 ```
 
 ### 5. Get driving distances between fleet hubs
 
-First you need to [obtain a Google Maps Distance Matrix API key](https://developers.google.com/maps/documentation/distance-matrix/get-api-key), and save the key string to  `CHIP-MDHD/Local_module/credentials/GoogleMapsAPIKey.txt`.
+First you need to [obtain a Google Maps Distance Matrix API key](https://developers.google.com/maps/documentation/distance-matrix/get-api-key), and save the key string to  `CHIP-MDHD\Local_module\credentials\GoogleMapsAPIKey.txt`.
 This is necessary so that you can access Google Maps' web service.
 
 After the API key is in place, run the following command:
-```bash
-$ Rscript R/GetDrivingTimeBetweenHubs.R
+```powershell
+> Rscript R/GetDrivingTimeBetweenHubs.R
 ```
 This script will generate a `.csv` file at 
-`<scenario_dir>/scratch/DriveDistTime_HubHub.csv`,
+`<scenario_dir>\scratch\DriveDistTime_HubHub.csv`,
 which contains driving distances between all pairs of hubs 
-provided in `<scenario_dir>/scratch/Hubs_list.csv`.
+provided in `<scenario_dir>\scratch\Hubs_list.csv`.
 
 The distances calculated here will later be used 
 when deciding fleet priorities for allocating new FCV populations.
 
 ### 6. Calculate fleet stock inventory and fuel demand.
-```bash
+```powershell
 $ Rscript R/Calc_FCET_Stock_and_H2_Demand.R
 ```
 This script calculates FCV stock population and their fuel demand based on the inputs you provided in the `input` directory in [Step 2](#2.-Prepare-your-scenario-directory).
 
-The outputs are placed in `<scenario_dir>/output/` directory as several CSV files.
+The outputs are placed in `<scenario_dir>\output\` directory as several CSV files.
 They include:
 
 | File name | Description |
@@ -138,9 +139,7 @@ ARB's road network dataset is adapted from US Census Bureau's
 you need ArcGIS and ArcPy available on your computer.
 - Make sure you're running the Python executable that comes with ArcGIS.
 Normally it is in `C:\Python27\ArcGIS10.4\` (or similar)
-- Because ArcGIS is only available on the Windows platform, 
-commands below are written for Windows PowerShell. 
-PowerShell commands are denoted with a `>` character at the line beginning. 
+- At the point of writing this, ArcGIS Desktop is only available on the Windows platform. All following commands are for PowerShell only.
 ---
 
 First, make sure your default Python executable is the one that comes with ArcGIS.
@@ -162,7 +161,7 @@ In Windows PowerShell, you should see the following outputs from the `pwd` comma
 
 Path
 ----
-<some_parent_directory>\CHIP-MDHD\Local_module
+C:\<some_parent_directory>\CHIP-MDHD\Local_module
 ```
 
 Prepare road network data by running the following script. 
