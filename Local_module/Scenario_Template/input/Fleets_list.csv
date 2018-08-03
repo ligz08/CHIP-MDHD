@@ -1,7 +1,7 @@
 fleet.name,base.hub,FCET_type,Seed_year,Fleet_size_cap
 Port Drayage Trucks at Port Oakland,Port Oakland,HD Port Drayage,,14000
-Port Drayage Trucks at Port Long Beach,Port Long Beach,HD Port Drayage,2019,14000
-Port Drayage Trucks at Port Los Angeles,Port Los Angeles,HD Port Drayage,2020,14000
+Port Drayage Trucks at Port Long Beach,Port Long Beach,HD Port Drayage,2020,14000
+Port Drayage Trucks at Port Los Angeles,Port Los Angeles,HD Port Drayage,,14000
 Port Drayage Trucks at Port San Diego,Port San Diego,HD Port Drayage,,14000
 Port Drayage Trucks at Port Redwood City,Port Redwood City,HD Port Drayage,,14000
 Port Drayage Trucks at Port San Francisco,Port San Francisco,HD Port Drayage,,14000
@@ -12,7 +12,7 @@ Trucks at Bob Hope (Burbank) Airport (BUR),Bob Hope (Burbank) Airport (BUR),HD O
 Trucks at Fresno Yosemite International Airport (FAT),Fresno Yosemite International Airport (FAT),HD Other Drayage,,100
 Trucks at John Wayne / Orange County Airport (SNA),John Wayne / Orange County Airport (SNA),HD Other Drayage,,100
 Trucks at Long Beach Municipal Airport (LGB),Long Beach Municipal Airport (LGB),HD Other Drayage,,100
-Trucks at Los Angeles International Airport (LAX),Los Angeles International Airport (LAX),HD Other Drayage,2025,100
+Trucks at Los Angeles International Airport (LAX),Los Angeles International Airport (LAX),HD Other Drayage,,100
 Trucks at Los Angeles Ontario International Airport (ONT),Los Angeles Ontario International Airport (ONT),HD Other Drayage,,100
 Trucks at Norman Y. Mineta San Jos_ International Airport (SJC),Norman Y. Mineta San Jos_ International Airport (SJC),HD Other Drayage,,100
 Trucks at Oakland International Airport (OAK),Oakland International Airport (OAK),HD Other Drayage,,100
@@ -95,7 +95,7 @@ Santa Barbara Metropolitan Transit District,Santa Barbara MTD Garage,HD Transit 
 Santa Cruz Metropolitan Transit District,Santa Cruz METRO Maintenance Yard,HD Transit Bus,,107
 Monterey-Salinas Transit,Monterey-Salinas Transit Yard,HD Transit Bus,,97
 Santa Clarita Transit,Santa Clarita Transit Maintenance Facility,HD Transit Bus,,94
-Los Angeles County MTA Division 1,LA MTA Division 1 Maintenance Yard,HD Transit Bus,2025,213
+Los Angeles County MTA Division 1,LA MTA Division 1 Maintenance Yard,HD Transit Bus,,213
 Los Angeles County MTA Division 2,LA MTA Division 2 Maintenance Yard,HD Transit Bus,,209
 Los Angeles County MTA Division 3,LA MTA Division 3 Maintenance Yard,HD Transit Bus,,209
 Los Angeles County MTA Division 5,LA MTA Division 5 Maintenance Yard,HD Transit Bus,,209
@@ -115,9 +115,9 @@ San Diego Metropolitan Transit System Kearny Mesa Division,SD MTS Kearny Mesa Di
 San Diego Metropolitan Transit System South Bay Bus Maintenance Facility,SD MTS South Bay Bus Maintenance Facility,HD Transit Bus,,118
 San Diego Metropolitan Transit System East County Bus Maintenance Facility,SD MTS East County Bus Maintenance Facility,HD Transit Bus,,118
 San Diego Metropolitan Transit System Copley Park Maintenance Facility,SD MTS Copley Park Maintenance Facility,HD Transit Bus,,118
-Alameda/Contra Costa Transit District Emeryville Division,AC Transit Emeryville Facility,HD Transit Bus,2018,145
+Alameda/Contra Costa Transit District Emeryville Division,AC Transit Emeryville Facility,HD Transit Bus,,145
 Alameda/Contra Costa Transit District Richmond Division,AC Transit Richmond Facility,HD Transit Bus,,144
-Alameda/Contra Costa Transit District East Oakland Division,AC Transit East Oakland Facility,HD Transit Bus,2020,145
+Alameda/Contra Costa Transit District East Oakland Division,AC Transit East Oakland Facility,HD Transit Bus,,145
 Alameda/Contra Costa Transit District Hayward Division,AC Transit Hayward Facility,HD Transit Bus,,144
 Santa Clara Valley Transportation Authority - Chaboya Division,VTA Chaboya Division Yard,HD Transit Bus,,179
 Santa Clara Valley Transportation Authority - Cerone Division,VTA Cerone Yard,HD Transit Bus,,178

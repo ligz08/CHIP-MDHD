@@ -1,0 +1,267 @@
+fleet.name,base.hub,FCET_type,Seed_year,Fleet_size_cap
+Port Drayage Trucks at Port Oakland,Port Oakland,HD Port Drayage,,14000
+Port Drayage Trucks at Port Long Beach,Port Long Beach,HD Port Drayage,2020,14000
+Port Drayage Trucks at Port Los Angeles,Port Los Angeles,HD Port Drayage,,14000
+Port Drayage Trucks at Port San Diego,Port San Diego,HD Port Drayage,,14000
+Port Drayage Trucks at Port Redwood City,Port Redwood City,HD Port Drayage,,14000
+Port Drayage Trucks at Port San Francisco,Port San Francisco,HD Port Drayage,,14000
+Port Drayage Trucks at Port Richmond,Port Richmond,HD Port Drayage,,14000
+Port Drayage Trucks at Port Hueneme,Port Hueneme,HD Port Drayage,,14000
+Port Drayage Trucks at Port Stockton,Port Stockton,HD Port Drayage,,14000
+Trucks at Bob Hope (Burbank) Airport (BUR),Bob Hope (Burbank) Airport (BUR),HD Other Drayage,,100
+Trucks at Fresno Yosemite International Airport (FAT),Fresno Yosemite International Airport (FAT),HD Other Drayage,,100
+Trucks at John Wayne / Orange County Airport (SNA),John Wayne / Orange County Airport (SNA),HD Other Drayage,,100
+Trucks at Long Beach Municipal Airport (LGB),Long Beach Municipal Airport (LGB),HD Other Drayage,,100
+Trucks at Los Angeles International Airport (LAX),Los Angeles International Airport (LAX),HD Other Drayage,,100
+Trucks at Los Angeles Ontario International Airport (ONT),Los Angeles Ontario International Airport (ONT),HD Other Drayage,,100
+Trucks at Norman Y. Mineta San Jos_ International Airport (SJC),Norman Y. Mineta San Jos_ International Airport (SJC),HD Other Drayage,,100
+Trucks at Oakland International Airport (OAK),Oakland International Airport (OAK),HD Other Drayage,,100
+Trucks at Sacramento International Airport (SMF),Sacramento International Airport (SMF),HD Other Drayage,,100
+Trucks at Sacramento Mather Airport (MHR),Sacramento Mather Airport (MHR),HD Other Drayage,,100
+Trucks at San Diego International Airport (SAN),San Diego International Airport (SAN),HD Other Drayage,,100
+Trucks at San Francisco International Airport (SFO),San Francisco International Airport (SFO),HD Other Drayage,,100
+Truck Fleet at Ames Industrial Park,Ames Industrial Park,HD Other Drayage,,120
+Truck Fleet at Arch Road Logistics Center,Arch Road Logistics Center,HD Other Drayage,,120
+Truck Fleet at Beckman Industrial Park,Beckman Industrial Park,HD Other Drayage,,120
+Truck Fleet at Broken Drum Industrial Park,Broken Drum Industrial Park,HD Other Drayage,,120
+Truck Fleet at Buena Park Industrial Center,Buena Park Industrial Center,HD Other Drayage,,120
+Truck Fleet at California Logistics Centre,California Logistics Centre,HD Other Drayage,,120
+Truck Fleet at Campbell Industrial Park,Campbell Industrial Park,HD Other Drayage,,120
+Truck Fleet at Carmelo Industrial Park,Carmelo Industrial Park,HD Other Drayage,,120
+Truck Fleet at Central Valley Industrial Park,Central Valley Industrial Park,HD Other Drayage,,120
+Truck Fleet at Charter Industrial Area,Charter Industrial Area,HD Other Drayage,,120
+Truck Fleet at Cherokee Industrial Park,Cherokee Industrial Park,HD Other Drayage,,120
+Truck Fleet at Collins Industrial Park,Collins Industrial Park,HD Other Drayage,,120
+Truck Fleet at Concord Diablo Industrial Park,Concord Diablo Industrial Park,HD Other Drayage,,120
+Truck Fleet at Concord Industrial Park,Concord Industrial Park,HD Other Drayage,,120
+Truck Fleet at Conti Industrial Park,Conti Industrial Park,HD Other Drayage,,120
+Truck Fleet at Corona Industrial Park,Corona Industrial Park,HD Other Drayage,,120
+Truck Fleet at Cupertino Industrial Park,Cupertino Industrial Park,HD Other Drayage,,120
+Truck Fleet at Delta Court Industrial Park,Delta Court Industrial Park,HD Other Drayage,,120
+Truck Fleet at Diablo Industrial Park,Diablo Industrial Park,HD Other Drayage,,120
+Truck Fleet at Edgewater Industrial Center,Edgewater Industrial Center,HD Other Drayage,,120
+Truck Fleet at El Pinal Industrial Park,El Pinal Industrial Park,HD Other Drayage,,120
+Truck Fleet at Enterprise Distribution Center,Enterprise Distribution Center,HD Other Drayage,,120
+Truck Fleet at Fairgrounds Industrial Park,Fairgrounds Industrial Park,HD Other Drayage,,120
+Truck Fleet at Fremont Industrial Park,Fremont Industrial Park,HD Other Drayage,,120
+Truck Fleet at Giant Trade Center,Giant Trade Center,HD Other Drayage,,120
+Truck Fleet at Gladstone Industrial Park,Gladstone Industrial Park,HD Other Drayage,,120
+Truck Fleet at Goldring Industrial Park,Goldring Industrial Park,HD Other Drayage,,120
+Truck Fleet at Grant Industrial Park,Grant Industrial Park,HD Other Drayage,,120
+Truck Fleet at Hayman Street Industrial Complex,Hayman Street Industrial Complex,HD Other Drayage,,120
+Truck Fleet at Hensley Industrial Park,Hensley Industrial Park,HD Other Drayage,,120
+Truck Fleet at Hesperian Industrial Park,Hesperian Industrial Park,HD Other Drayage,,120
+Truck Fleet at Hilltop Industrial Park,Hilltop Industrial Park,HD Other Drayage,,120
+Truck Fleet at Koll Arden Industrial Center,Koll Arden Industrial Center,HD Other Drayage,,120
+Truck Fleet at La Cienega Industrial Park,La Cienega Industrial Park,HD Other Drayage,,120
+Truck Fleet at Lathrop Industrial Park,Lathrop Industrial Park,HD Other Drayage,,120
+Truck Fleet at Los Angeles Industrial Park,Los Angeles Industrial Park,HD Other Drayage,,120
+Truck Fleet at Mabury Industrial Park,Mabury Industrial Park,HD Other Drayage,,120
+Truck Fleet at MacArthur Industrial Park,MacArthur Industrial Park,HD Other Drayage,,120
+Truck Fleet at Manteca Industrial Park,Manteca Industrial Park,HD Other Drayage,,120
+Truck Fleet at Mason Industrial Park,Mason Industrial Park,HD Other Drayage,,120
+Truck Fleet at Massie Industrial Park,Massie Industrial Park,HD Other Drayage,,120
+Truck Fleet at Milpitas Industrial Park,Milpitas Industrial Park,HD Other Drayage,,120
+Truck Fleet at Monrovia Industrial Park,Monrovia Industrial Park,HD Other Drayage,,120
+Truck Fleet at North County Industrial Park,North County Industrial Park,HD Other Drayage,,120
+Truck Fleet at North Hayward Industrial Park,North Hayward Industrial Park,HD Other Drayage,,120
+Truck Fleet at Oakmead Industrial Park,Oakmead Industrial Park,HD Other Drayage,,120
+Truck Fleet at Rancho Sierra Industrial Park,Rancho Sierra Industrial Park,HD Other Drayage,,120
+Truck Fleet at Rheem Industrial Park,Rheem Industrial Park,HD Other Drayage,,120
+Truck Fleet at Saticoy Industrial Park,Saticoy Industrial Park,HD Other Drayage,,120
+Truck Fleet at Shary Industrial Park,Shary Industrial Park,HD Other Drayage,,120
+Truck Fleet at Stonebridge Industrial Park,Stonebridge Industrial Park,HD Other Drayage,,120
+Truck Fleet at Sycamore Industrial Park,Sycamore Industrial Park,HD Other Drayage,,120
+Truck Fleet at Torrey Knolls Industrial Park,Torrey Knolls Industrial Park,HD Other Drayage,,120
+Truck Fleet at Triangle Industrial Park,Triangle Industrial Park,HD Other Drayage,,120
+Truck Fleet at Victory Industrial Park,Victory Industrial Park,HD Other Drayage,,120
+Truck Fleet at Walnut Industrial Park,Walnut Industrial Park,HD Other Drayage,,120
+Truck Fleet at West Park Logistics Center,West Park Logistics Center,HD Other Drayage,,120
+Truck Fleet at Westminster Industrial Center,Westminster Industrial Center,HD Other Drayage,,120
+Truck Fleet at Whitehall Industrial Park,Whitehall Industrial Park,HD Other Drayage,,120
+Truck Fleet at Wiegman Distribution Center,Wiegman Distribution Center,HD Other Drayage,,120
+Truck Fleet at Williams Street Industrial Park,Williams Street Industrial Park,HD Other Drayage,,120
+Truck Fleet at Winton Industrial Center,Winton Industrial Center,HD Other Drayage,,120
+Truck Fleet at Winton Logistics Center,Winton Logistics Center,HD Other Drayage,,120
+Truck Fleet at Wrigley Creek Industrial Park,Wrigley Creek Industrial Park,HD Other Drayage,,120
+Truck Fleet at Zanker/Charcot Industrial Park,Zanker/Charcot Industrial Park,HD Other Drayage,,120
+Truck Fleet at Centerpoint Intermodal Center,Centerpoint Intermodal Center,HD Other Drayage,,120
+Truck Fleet at Fairchild Industrial Park,Fairchild Industrial Park,HD Other Drayage,,120
+Truck Fleet at Old River Industrial Park,Old River Industrial Park,HD Other Drayage,,120
+Truck Fleet at ProLogis Park Duck Creek,ProLogis Park Duck Creek,HD Other Drayage,,120
+Santa Monica Big Blue Bus,Santa Monica Big Blue Bus Yard,HD Transit Bus,,202
+Fresno Area Express,Fresno Area Express Transit Operations and Maintenance Facility,HD Transit Bus,,111
+Santa Barbara Metropolitan Transit District,Santa Barbara MTD Garage,HD Transit Bus,,108
+Santa Cruz Metropolitan Transit District,Santa Cruz METRO Maintenance Yard,HD Transit Bus,,107
+Monterey-Salinas Transit,Monterey-Salinas Transit Yard,HD Transit Bus,,97
+Santa Clarita Transit,Santa Clarita Transit Maintenance Facility,HD Transit Bus,,94
+Los Angeles County MTA Division 1,LA MTA Division 1 Maintenance Yard,HD Transit Bus,,213
+Los Angeles County MTA Division 2,LA MTA Division 2 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 3,LA MTA Division 3 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 5,LA MTA Division 5 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 6,LA MTA Division 6 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 7,LA MTA Division 7 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 8,LA MTA Division 8 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 9,LA MTA Division 9 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 10,LA MTA Division 10 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 11,LA MTA Division 11 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 13,LA MTA Division 13 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 15,LA MTA Division 15 Maintenance Yard,HD Transit Bus,,209
+Los Angeles County MTA Division 18,LA MTA Division 18 Maintenance Yard,HD Transit Bus,,209
+Orange County Transportation Authority Garden Grove,OCTA Garden Grove Garage,HD Transit Bus,,319
+Orange County Transportation Authority Santa Ana,OCTA Santa Ana Garage,HD Transit Bus,,318
+San Diego Metropolitan Transit System Imperial Avenue Division,SD MTS Imperial Avenue Division Yard,HD Transit Bus,,119
+San Diego Metropolitan Transit System Kearny Mesa Division,SD MTS Kearny Mesa Division Yard,HD Transit Bus,,118
+San Diego Metropolitan Transit System South Bay Bus Maintenance Facility,SD MTS South Bay Bus Maintenance Facility,HD Transit Bus,,118
+San Diego Metropolitan Transit System East County Bus Maintenance Facility,SD MTS East County Bus Maintenance Facility,HD Transit Bus,,118
+San Diego Metropolitan Transit System Copley Park Maintenance Facility,SD MTS Copley Park Maintenance Facility,HD Transit Bus,,118
+Alameda/Contra Costa Transit District Emeryville Division,AC Transit Emeryville Facility,HD Transit Bus,,145
+Alameda/Contra Costa Transit District Richmond Division,AC Transit Richmond Facility,HD Transit Bus,,144
+Alameda/Contra Costa Transit District East Oakland Division,AC Transit East Oakland Facility,HD Transit Bus,,145
+Alameda/Contra Costa Transit District Hayward Division,AC Transit Hayward Facility,HD Transit Bus,,144
+Santa Clara Valley Transportation Authority - Chaboya Division,VTA Chaboya Division Yard,HD Transit Bus,,179
+Santa Clara Valley Transportation Authority - Cerone Division,VTA Cerone Yard,HD Transit Bus,,178
+Santa Clara Valley Transportation Authority - North Division,VTA North Yard,HD Transit Bus,,178
+San Mateo County Transit District North Base,SamTrans North Base,HD Transit Bus,,190
+San Mateo County Transit District South Base,SamTrans South Base,HD Transit Bus,,138
+Sacramento Regional Transit District,Sacramento RT North Lot,HD Transit Bus,,219
+Golden Gate Transit - San Rafael,Golden Gate Transit San Rafael Bus Facility,HD Transit Bus,,48
+Golden Gate Transit - Santa Rosa,Golden Gate Transit Santa Rosa Facility,HD Transit Bus,,49
+Golden Gate Transit - Novato,Golden Gate Transit Novato Facility,HD Transit Bus,,49
+Golden Gate Transit - San Francisco,Golden Gate Transit SF Facility,HD Transit Bus,,49
+Riverside Transit Agency - Riverside Division,RTA Riverside Facility,HD Transit Bus,,100
+Riverside Transit Agency -  Hemet Division,RTA Hemet Facility,HD Transit Bus,,43
+Delivery Fleet at UPS CC - BAKERSFIELD 11318,UPS CC - BAKERSFIELD 11318,MD Package Delivery,,350
+Delivery Fleet at UPS CC - MOJAVE 11497,UPS CC - MOJAVE 11497,MD Package Delivery,,350
+Delivery Fleet at UPS CC - LANCASTER 11492,UPS CC - LANCASTER 11492,MD Package Delivery,,350
+Delivery Fleet at UPS CC - VISALIA 11321,UPS CC - VISALIA 11321,MD Package Delivery,,350
+Delivery Fleet at UPS CC - RIDGECREST 11496,UPS CC - RIDGECREST 11496,MD Package Delivery,,350
+Delivery Fleet at UPS CC - VENTURA 11485,UPS CC - VENTURA 11485,MD Package Delivery,,350
+Delivery Fleet at UPS CC - GOLETA 11489,UPS CC - GOLETA 11489,MD Package Delivery,,350
+Delivery Fleet at UPS CC - NEWBURY PARK 11481,UPS CC - NEWBURY PARK 11481,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SYLMAR 11031,UPS CC - SYLMAR 11031,MD Package Delivery,,350
+Delivery Fleet at UPS CC - VAN NUYS 11021,UPS CC - VAN NUYS 11021,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SANTA MARIA 11494,UPS CC - SANTA MARIA 11494,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN LUIS OBISPO 11491,UPS CC - SAN LUIS OBISPO 11491,MD Package Delivery,,350
+Delivery Fleet at UPS CC LOS ANGELES 11026,UPS CC LOS ANGELES 11026,MD Package Delivery,,350
+Delivery Fleet at UPS CC - LOS ANGELES 11022,UPS CC - LOS ANGELES 11022,MD Package Delivery,,350
+Delivery Fleet at UPS CC - LOS ANGELES 11023,UPS CC - LOS ANGELES 11023,MD Package Delivery,,350
+Delivery Fleet at UPS CC - FRESNO 11317,UPS CC - FRESNO 11317,MD Package Delivery,,350
+Delivery Fleet at UPS CC - BALDWIN PARK 11024,UPS CC - BALDWIN PARK 11024,MD Package Delivery,,350
+Delivery Fleet at UPS CC - GARDENA 11477,UPS CC - GARDENA 11477,MD Package Delivery,,350
+Delivery Fleet at UPS CC - VICTORVILLE 11483,UPS CC - VICTORVILLE 11483,MD Package Delivery,,350
+Delivery Fleet at UPS CERRITOS 11027,UPS CERRITOS 11027,MD Package Delivery,,350
+Delivery Fleet at UPS CC CHICO 11314,UPS CC CHICO 11314,MD Package Delivery,,350
+Delivery Fleet at UPS CC - MARYSVILLE 11331,UPS CC - MARYSVILLE 11331,MD Package Delivery,,350
+Delivery Fleet at UPS CC - QUANCY 10698,UPS CC - QUANCY 10698,MD Package Delivery,,350
+Delivery Fleet at UPS CC - GRASS VALLEY 11305,UPS CC - GRASS VALLEY 11305,MD Package Delivery,,350
+Delivery Fleet at UPS CC  - ANDERSON 11325,UPS CC  - ANDERSON 11325,MD Package Delivery,,350
+Delivery Fleet at UPS CC - ROCKLIN 11326,UPS CC - ROCKLIN 11326,MD Package Delivery,,350
+Delivery Fleet at UPS CC - LAKEPORT 11328,UPS CC - LAKEPORT 11328,MD Package Delivery,,350
+Delivery Fleet at UPS CC - WEST SACRAMENTO 11315,UPS CC - WEST SACRAMENTO 11315,MD Package Delivery,2018,350
+Delivery Fleet at UPS CC UKIAH 11322,UPS CC UKIAH 11322,MD Package Delivery,,350
+Delivery Fleet at UPS CORDOVA BUILDING 93411,UPS CORDOVA BUILDING 93411,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SUSANVILLE 11333,UPS CC - SUSANVILLE 11333,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SANTA ROSA 11323,UPS CC - SANTA ROSA 11323,MD Package Delivery,,350
+Delivery Fleet at UPS CC - NAPA 11330,UPS CC - NAPA 11330,MD Package Delivery,,350
+Delivery Fleet at UPS CC - FAIRFIELD 11313,UPS CC - FAIRFIELD 11313,MD Package Delivery,,350
+Delivery Fleet at UPS CC - FORT BRAGG 11335,UPS CC - FORT BRAGG 11335,MD Package Delivery,,350
+Delivery Fleet at UPS CC - PETALUMA 11340,UPS CC - PETALUMA 11340,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SOUTH LAKE TAHOE 11334,UPS CC - SOUTH LAKE TAHOE 11334,MD Package Delivery,,350
+Delivery Fleet at UPS CC-OAKLEY 143816,UPS CC-OAKLEY 143816,MD Package Delivery,,350
+Delivery Fleet at UPS CC - CONCORD 11312,UPS CC - CONCORD 11312,MD Package Delivery,,350
+Delivery Fleet at UPS CC - MERCED 11329,UPS CC - MERCED 11329,MD Package Delivery,,350
+Delivery Fleet at UPS CC - BISHOP 11495,UPS CC - BISHOP 11495,MD Package Delivery,,350
+Delivery Fleet at UPS CC - CERES 11324,UPS CC - CERES 11324,MD Package Delivery,,350
+Delivery Fleet at UPS CC - ANGELS CAMP 11341,UPS CC - ANGELS CAMP 11341,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SALINAS 11319,UPS CC - SALINAS 11319,MD Package Delivery,,350
+Delivery Fleet at UPS CC - MONTEREY 11339,UPS CC - MONTEREY 11339,MD Package Delivery,,350
+Delivery Fleet at UPS CC - STOCKTON 11316,UPS CC - STOCKTON 11316,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN JOSE 11338,UPS CC - SAN JOSE 11338,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SANTA CRUZ 11327,UPS CC - SANTA CRUZ 11327,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SUNNYVALE 11308,UPS CC - SUNNYVALE 11308,MD Package Delivery,,350
+Delivery Fleet at UPS CC - MENLO PARK 11311,UPS CC - MENLO PARK 11311,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN RAMON 11343,UPS CC - SAN RAMON 11343,MD Package Delivery,,350
+Delivery Fleet at UPS CC - ANAHEIM 11476,UPS CC - ANAHEIM 11476,MD Package Delivery,,350
+Delivery Fleet at UPS CC - ONTARIO 11482,UPS CC - ONTARIO 11482,MD Package Delivery,,350
+Delivery Fleet at UPS CC - ALISO VIEJO 11480,UPS CC - ALISO VIEJO 11480,MD Package Delivery,,350
+Delivery Fleet at UPS CC - AVALON 11025,UPS CC - AVALON 11025,MD Package Delivery,,350
+Delivery Fleet at UPS CC - RIVERSIDE 11490,UPS CC - RIVERSIDE 11490,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN BERNARDINO 11486,UPS CC - SAN BERNARDINO 11486,MD Package Delivery,,350
+Delivery Fleet at UPS CC - ROMOLAND 11493,UPS CC - ROMOLAND 11493,MD Package Delivery,,350
+Delivery Fleet at UPS CC - YREKA 10697,UPS CC - YREKA 10697,MD Package Delivery,,350
+Delivery Fleet at UPS CC EUREKA 11320,UPS CC EUREKA 11320,MD Package Delivery,,350
+Delivery Fleet at UPS CC - CRESCENT CITY 11332,UPS CC - CRESCENT CITY 11332,MD Package Delivery,,350
+Delivery Fleet at UPS CC - RICHMOND 11342,UPS CC - RICHMOND 11342,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN RAFAEL 11310,UPS CC - SAN RAFAEL 11310,MD Package Delivery,,350
+Delivery Fleet at UPS CC - OAKLAND 11309,UPS CC - OAKLAND 11309,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN FRANCISCO 11306,UPS CC - SAN FRANCISCO 11306,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN DIEGO 11478,UPS CC - SAN DIEGO 11478,MD Package Delivery,,350
+Delivery Fleet at UPS CC - CHULA VISTA 11479,UPS CC - CHULA VISTA 11479,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SAN MARCOS 11487,UPS CC - SAN MARCOS 11487,MD Package Delivery,,350
+Delivery Fleet at UPS CC - PALM SPRINGS 11488,UPS CC - PALM SPRINGS 11488,MD Package Delivery,,350
+Delivery Fleet at UPS CC - EL CENTRO 10549,UPS CC - EL CENTRO 10549,MD Package Delivery,,350
+Delivery Fleet at UPS CC - YUCCA VALLEY 62292,UPS CC - YUCCA VALLEY 62292,MD Package Delivery,,350
+Delivery Fleet at UPS CC - SO SANFRANCISCO 11307,UPS CC - SO SANFRANCISCO 11307,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Bakersfield BFLA,FedEx Ship Center Bakersfield BFLA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Canoga Park JSNA,FedEx Ship Center Canoga Park JSNA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Carlsbad CLDA,FedEx Ship Center Carlsbad CLDA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Chico CICA,FedEx Ship Center Chico CICA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Clovis FATA,FedEx Ship Center Clovis FATA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Costa Mesa APVA,FedEx Ship Center Costa Mesa APVA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Culver City CCDA,FedEx Ship Center Culver City CCDA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Emeryville JEMA,FedEx Ship Center Emeryville JEMA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Eureka EKAA,FedEx Ship Center Eureka EKAA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Fullerton FULA,FedEx Ship Center Fullerton FULA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Gardena TOAA,FedEx Ship Center Gardena TOAA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Goleta SBAA,FedEx Ship Center Goleta SBAA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Grass Valley OVEA,FedEx Ship Center Grass Valley OVEA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Hawthorne HHRA,FedEx Ship Center Hawthorne HHRA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Imperial IPLA,FedEx Ship Center Imperial IPLA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center City Of Industry POCA,FedEx Ship Center City Of Industry POCA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Irvine NZJA,FedEx Ship Center Irvine NZJA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Lancaster WJFA,FedEx Ship Center Lancaster WJFA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Los Angeles VXCE,FedEx Ship Center Los Angeles VXCE,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Los Angeles EMTA,FedEx Ship Center Los Angeles EMTA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Los Angeles JGXA,FedEx Ship Center Los Angeles JGXA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Marina Del Rey SMOA,FedEx Ship Center Marina Del Rey SMOA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Menlo Park PAOA,FedEx Ship Center Menlo Park PAOA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Merced MCEA,FedEx Ship Center Merced MCEA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Modesto MODA,FedEx Ship Center Modesto MODA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Monterey MRYA,FedEx Ship Center Monterey MRYA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center North Hills VNYA,FedEx Ship Center North Hills VNYA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Oakland JBSA,FedEx Ship Center Oakland JBSA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Ontario ONTA,FedEx Ship Center Ontario ONTA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Oxnard OXRA,FedEx Ship Center Oxnard OXRA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Pacheco CCRA,FedEx Ship Center Pacheco CCRA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Palm Springs PSPA,FedEx Ship Center Palm Springs PSPA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Petaluma NOTA,FedEx Ship Center Petaluma NOTA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Pleasanton LVKA,FedEx Ship Center Pleasanton LVKA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Rancho Cordova MHRA,FedEx Ship Center Rancho Cordova MHRA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Redding RDDA,FedEx Ship Center Redding RDDA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Ridgecrest IYKA,FedEx Ship Center Ridgecrest IYKA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Rocklin AUNA,FedEx Ship Center Rocklin AUNA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Sacramento SMFA,FedEx Ship Center Sacramento SMFA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Sacramento SMFE,FedEx Ship Center Sacramento SMFE,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Diego JBKA,FedEx Ship Center San Diego JBKA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Diego MYFA,FedEx Ship Center San Diego MYFA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Diego SANA,FedEx Ship Center San Diego SANA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Diego SDMA,FedEx Ship Center San Diego SDMA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Francisco PCCE,FedEx Ship Center San Francisco PCCE,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Francisco SFOA,FedEx Ship Center San Francisco SFOA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Jose RHVA,FedEx Ship Center San Jose RHVA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Luis Obispo SBPA,FedEx Ship Center San Luis Obispo SBPA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center San Rafael SRFA,FedEx Ship Center San Rafael SRFA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Santa Fe Springs JDYA,FedEx Ship Center Santa Fe Springs JDYA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Santa Maria SMXA,FedEx Ship Center Santa Maria SMXA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Signal Hill LGBA,FedEx Ship Center Signal Hill LGBA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Soquel SRUA,FedEx Ship Center Soquel SRUA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center South San Francisco SQLA,FedEx Ship Center South San Francisco SQLA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Stockton SCKA,FedEx Ship Center Stockton SCKA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Sun Valley BURA,FedEx Ship Center Sun Valley BURA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Sunnyvale COAA,FedEx Ship Center Sunnyvale COAA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Temecula HMTA,FedEx Ship Center Temecula HMTA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Ukiah UKIA,FedEx Ship Center Ukiah UKIA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Victorville DAGA,FedEx Ship Center Victorville DAGA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Visalia VISA,FedEx Ship Center Visalia VISA,MD Package Delivery,,350
+Delivery Fleet at FedEx Ship Center Yuba City MYVA,FedEx Ship Center Yuba City MYVA,MD Package Delivery,,350

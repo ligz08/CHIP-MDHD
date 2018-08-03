@@ -58,14 +58,14 @@ try:
     '''
     Check if network dataset already exists
     '''
-    if arcpy.Exists(network_dataset_path) and raw_input('Network dataset `ITN_TIGER_2017_ND` already exists. Overwrite? [y/n]').lower() not in ['y', 'yes']:
+    if arcpy.Exists(network_dataset_path) and raw_input('Network dataset `ITN_TIGER_2017_ND` already exists. Overwrite? [y/n] ').lower() not in ['y', 'yes']:
         print 'Exiting.'
         quit()
 
     '''
     Download CHIT 2017 from CARB website
     '''
-    if os.path.exists(CHIT2017_zipfile_path) and raw_input('`CHIT_2017.ZIP` already exists. Overwrite? [y/n]').lower() not in ['y', 'yes']:
+    if os.path.exists(CHIT2017_zipfile_path) and raw_input('`CHIT_2017.ZIP` already exists. Overwrite? [y/n] ').lower() not in ['y', 'yes']:
         print 'Using existing `CHIT_2017.ZIP`.'
     else:
         download_CHIT2017(dest_path=CHIT2017_zipfile_path)
@@ -73,7 +73,7 @@ try:
     '''
     Extract zip file
     '''
-    if os.path.exists(CHIT2017_gdb_path) and raw_input('`CHIT2017.gdb` already exists. Overwrite? [y/n]').lower() not in ['y', 'yes']:
+    if os.path.exists(CHIT2017_gdb_path) and raw_input('`CHIT2017.gdb` already exists. Overwrite? [y/n] ').lower() not in ['y', 'yes']:
         print 'Using existing `CHIT2017.gdb`.'
     else:
         sys.stdout.write('Extracting CHIT2017.gdb from CHIT_2017.ZIP... ')
@@ -88,8 +88,6 @@ try:
     Copy network dataset to another gdb
     '''
     sys.stdout.write('Copying `ITN_TIGER_2017` from `CHIT2017.gdb` to `TIGER_ND.gdb`... ')
-    # if arcpy.Exists(network_dataset_parent_path):
-    #     arcpy.Delete_management(network_dataset_parent_path)
     if not os.path.exists(network_dataset_gdb_path):
         arcpy.CreateFileGDB_management(module_dir, network_dataset_gdb_name)
     arcpy.Copy_management(

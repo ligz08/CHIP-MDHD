@@ -4,6 +4,7 @@ import zipfile
 import arcpy
 from datetime import datetime
 import pandas as pd
+import json
 
 SHAPEFILE_EXT = ['.shp', '.shx', '.dbf', '.prj', '.xml', '.sbn', '.sbx', '.cpg']
 
@@ -21,28 +22,24 @@ try:
     input_dir = os.path.join(scenario_dir, 'input')
     output_dir = os.path.join(scenario_dir, 'output')
     out_shapefile_dir = os.path.join(output_dir, 'shapefile')
+    with open(os.path.join(input_dir, 'control_parameters.json')) as f:
+        coverageMinutesRange = json.load(f).get('coverage_minutes_range')
     
     ## ArcPy env
     arcpy.CheckOutExtension("Network")
     arcpy.env.workspace = scenario_dir
     arcpy.env.overwriteOutput = True
-    # gdb_name = "GoeData.gdb"
-    # gdb_path = os.path.join(scenario_dir, gdb_name)
-    # if not os.path.exists(gdb_path):
-    #     arcpy.CreateFileGDB_management(scenario_dir, gdb_name)
     if not os.path.exists(out_shapefile_dir):
         os.makedirs(out_shapefile_dir)
 
     # Set ranges for iterators
     cyRange = pd.read_csv(
-        os.path.join(scenario_dir, 'input', "FCET_new_pop.csv"),
-        usecols=["MY"]) \
+        os.path.join(input_dir, "FCET_new_pop.csv"), usecols=["MY"]) \
         ["MY"] \
         .unique() \
         .tolist()
     cyRange.sort(reverse=False)
-    coverageMinutesRange = [10]
-    print 'Calender year range: [{}, {}]'.format(cyRange[0], cyRange[-1])
+    print 'Calender year range: [{} - {}]'.format(cyRange[0], cyRange[-1])
 
     for cy in cyRange:
         print '[Year {}]'.format(cy)
@@ -58,32 +55,23 @@ try:
 
         # Import points from csv file, store in memory as layers
         # Demand points
+        print "\tImport Demand Points from {} ...".format(H2_demand_csv)
         arcpy.MakeXYEventLayer_management(table = H2_demand_csv,
                                           in_x_field = "lon",
                                           in_y_field = "lat",
                                           out_layer  = demand_points_layer
                                           )
-        print "\tImported demand_points_layer named \'{0}\'. {1} points. {2} fields: {3}" \
-            .format(demand_points_layer,
-                    arcpy.GetCount_management(demand_points_layer),
-                    len(arcpy.ListFields(demand_points_layer)),
-                    [f.name for f in arcpy.ListFields(demand_points_layer)])
-        # arcpy.CopyFeatures_management(demand_points_layer, os.path.join(gdb_path, demand_points_layer))
+        print '\t{} pionts imported.'.format(arcpy.GetCount_management(demand_points_layer))
 
         # Candidate sites
+        print "\tImport Candidate Sites from {}".format(Candidate_sites_csv)
         arcpy.MakeXYEventLayer_management(table = Candidate_sites_csv,
                                           in_x_field = "lon",
                                           in_y_field = "lat",
                                           out_layer = candidate_sites_layer
                                           )
-        print "\tImported candidate_sites_layer named \'{0}\'. {1} points. {2} fields: {3}".format(
-            candidate_sites_layer,
-            arcpy.GetCount_management(candidate_sites_layer),
-            len(arcpy.ListFields(candidate_sites_layer)),
-            [f.name for f in arcpy.ListFields(candidate_sites_layer)]
-        )
-        # arcpy.CopyFeatures_management(candidate_sites_layer, os.path.join(gdb_path, candidate_sites_layer))
-        print datetime.now().time(), "- completed reading demand points and candidate sites."
+        print '\t{} sites imported.'.format(arcpy.GetCount_management(candidate_sites_layer))
+        print datetime.now().time(), "- Completed reading demand points and candidate sites."
 
         # Set network dataset
         network_dataset_path = os.path.join(module_dir, "TIGER_ND.gdb", "ITN_TIGER_2017", "ITN_TIGER_2017_ND")
@@ -91,6 +79,7 @@ try:
         for coverageMinutes in coverageMinutesRange:
             # Create Location Allocation layer
             NA_layer_name = "Local_Min_Facilities_{}_{:02d}min_coverage".format(cy, coverageMinutes)
+            print "\tCreate Location-Allocation Layer named {0} ...".format(NA_layer_name)
             NA_layer = arcpy.MakeLocationAllocationLayer_na(
                 in_network_dataset = network_dataset_path,
                 out_network_analysis_layer = NA_layer_name,
@@ -102,8 +91,7 @@ try:
 
             #Get the names of all the sublayers within the location-allocation layer.
             subLayerNames = arcpy.na.GetNAClassNames(NA_layer)
-            print "\tCreated a Location-Allocation Layer named {0}. Sub-layers: {1}.".format(NA_layer_name, subLayerNames)
-            print datetime.now().time(), "- completed creating Location-Allocation layer."
+            print datetime.now().time(), "- Completed creating Location-Allocation layer."
 
             # Load the candidate station locations as "Facilities" 
             # using default search tolerance and field mappings.
@@ -123,6 +111,7 @@ try:
                                                                 subLayerNames["DemandPoints"])
             demandFieldMappings["Weight"].mappedFieldName = "Daily.kgH2"
             demandFieldMappings["Name"].mappedFieldName = "Hub"
+            print "\tAdd facility and demand locations to the Location-Allocatin Layer..."
             arcpy.na.AddLocations(
                 in_network_analysis_layer = NA_layer,
                 sub_layer = subLayerNames["DemandPoints"],
@@ -130,20 +119,19 @@ try:
                 field_mappings = demandFieldMappings,
                 search_tolerance = "",
                 exclude_restricted_elements = "EXCLUDE")
-            print "\tAdded facility and demand locations to the Location-Allocatin Layer."
-            print datetime.now().time(), "- complete adding locations to Location-Allocation layer."
+            print datetime.now().time(), "- Complete adding locations to Location-Allocation layer."
 
 
             # Solve the location-allocation layer
             print "\tNetwork Analyst is solving..."
             arcpy.Solve_na(NA_layer)
-            print datetime.now().time(), "- completed solving."
+            print datetime.now().time(), "- Completed solving."
 
             # Save the solved "Facilities" layer, as shapefile
             facilitiesLayer = arcpy.mapping.ListLayers(NA_layer, "Facilities")[0]
             out_shapefile_path = os.path.join(out_shapefile_dir, NA_layer_name)
             print 'Saving solved Facilities layer to {}.'.format(out_shapefile_path) 
-            print 'Description:', arcpy.Describe(facilitiesLayer)
+            # print 'Description:', arcpy.Describe(facilitiesLayer)
             arcpy.MakeFeatureLayer_management(in_features = facilitiesLayer,
                                               out_layer = "chosen_facilities_lyr",
                                               where_clause = "FacilityType=3")  # FacilityType=3 means selected facilities

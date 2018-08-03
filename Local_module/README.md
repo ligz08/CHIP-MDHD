@@ -47,7 +47,7 @@ and have the following structure
 (using a sample scenario `Scenario_Template` for demonstration):
 
 ```
-Scenario_Template/
+Scenario_Template\
 ├── input
 │   ├── FCET_Fuel_Economy.csv
 │   ├── FCET_new_pop.csv
@@ -75,15 +75,15 @@ of the scenario you want to perform analysis on.
 For example, to set `Scenario_40KLocalFCETby2030` as active scenario, 
 you can run the following command:
 ```powershell
-> echo 'Scenario_40KLocalFCETby2030' > active_scenario.txt  
+> 'Scenario_40KLocalFCETby2030' | Out-File active_scenario.txt -Encoding ascii
 ```
 
 ### 4. Install required R packages
 
 The model depends on several R packages like `tidyverse`, `jsonlite`, and `ggmap`.
-You can install all needed R packages in one step by running the `install_packages.R` script in `CHIP-MDHD/Local_module/R/`.
+You can install all needed R packages in one step by running the `install_packages.R` script in `CHIP-MDHD\Local_module\R\`.
 ```powershell
-> Rscript R/install_packages.R
+> Rscript R\install_packages.R
 ```
 
 ### 5. Get driving distances between fleet hubs
@@ -93,7 +93,7 @@ This is necessary so that you can access Google Maps' web service.
 
 After the API key is in place, run the following command:
 ```powershell
-> Rscript R/GetDrivingTimeBetweenHubs.R
+> Rscript R\GetDrivingTimeBetweenHubs.R
 ```
 This script will generate a `.csv` file at 
 `<scenario_dir>\scratch\DriveDistTime_HubHub.csv`,
@@ -105,9 +105,9 @@ when deciding fleet priorities for allocating new FCV populations.
 
 ### 6. Calculate fleet stock inventory and fuel demand.
 ```powershell
-$ Rscript R/Calc_FCET_Stock_and_H2_Demand.R
+> Rscript R\Calc-FcvStockH2Demand.R
 ```
-This script calculates FCV stock population and their fuel demand based on the inputs you provided in the `input` directory in [Step 2](#2.-Prepare-your-scenario-directory).
+This script calculates FCV stock population and their fuel demand based on the inputs you provided in the `input` directory in [Step 2](#2-Prepare-your-scenario-directory).
 
 The outputs are placed in `<scenario_dir>\output\` directory as several CSV files.
 They include:
@@ -180,6 +180,6 @@ Run `Minimize_HRS_for_Local_H2Demands.py`. Expect 10+ minutes on a run.
 ```powershell
 > python .\python\Minimize_HRS_for_Local_H2Demands.py
 ```
-The output shapefiles will be stored in `<scenario_directory>/output/shapefile/`
+The output shapefiles will be stored in `<scenario_directory>\output\shapefile\`
 
 # TODOs

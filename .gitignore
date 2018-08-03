@@ -8,16 +8,33 @@
 .Rapp.history
 .RData
 .Rproj.user/
-.ipynb_checkpoints/
 
 ### Python
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
 
 ### CHIP-MDHD
 /Local_module/Scenario_*
 # !/Local_module/Scenario_40KLocalFCETby2030/
 !/Local_module/Scenario_Template/
+!/Local_module/Scenario_Baseline/
 */credentials/*
 gurobi.log
+.Rproj.user
+
+
+### Shapefiles and zip files (too large to commit to GitHub)
+*.zip
 *.gdb
+*.lock
+*.shp
+*.prj
+*.shx
+*.vpr
+*.shp.xml
+*.sbx
+*.dbf
+*.cpg
+*.sbn
+*.sbx

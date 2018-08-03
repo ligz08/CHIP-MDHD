@@ -1,7 +1,7 @@
 ####################################################################################################
 ## This script queries Google Maps API to find driving distances on arcs (node node pairs)
 ## Notices:
-## - A Google Maps API key must be available at file "../credentials/GoogleMapsAPIKey"
+## - A Google Maps API key must be available at file "../credentials/GoogleMapsAPIKey.txt"
 ####################################################################################################
 
 library(tidyverse)
@@ -9,7 +9,7 @@ library(tidyverse)
 # Function that queries arc lengths from Google Maps API
 googleDriveDistByLatLon <- function(from.coord, to.coord){
     cat("Googling drive distance from [", from.coord, "] to [", to.coord, "]...")
-    API_Key <- read_file("../credentials/GoogleMapsAPIKey")
+    API_Key <- read_file("../credentials/GoogleMapsAPIKey.txt")
     google.maps.query.url <- paste(
         "https://maps.googleapis.com/maps/api/distancematrix/json?origins=",
         from.coord,

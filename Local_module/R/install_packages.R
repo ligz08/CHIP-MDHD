@@ -4,6 +4,8 @@ required_packages = c(
     'curl',
     'jsonlite',
     'readr',
-    'here'
+    'here',
+    'ggrepel',
+    'rjson'
 )
 install.packages(required_packages, repos = "http://cran.us.r-project.org")

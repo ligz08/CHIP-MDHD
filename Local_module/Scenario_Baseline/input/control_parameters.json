@@ -1,0 +1,4 @@
+{
+    "fleet_expansion_limit": false,
+    "coverage_minutes_range": [1, 5, 10, 15, 20]
+}
