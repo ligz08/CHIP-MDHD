@@ -1,0 +1,76 @@
+node_id,node_name,lon,lat,OD,county_long,county_short,County_No
+1,Redding,-122.360642,40.58545,1,Shasta County,Shasta,45
+2,Red Bluff,-122.224084,40.179209,1,Tehama County,Tehama,52
+3,Dunnigan,-121.95345800000001,38.860841,0,Yolo County,Yolo,57
+4,Woodland,-121.755159,38.689871999999994,0,Yolo County,Yolo,57
+5,SMF,-121.59364,38.67109,1,Sacramento County,Sacramento,34
+6,Sacramento,-121.51149099999999,38.567917,1,Sacramento County,Sacramento,34
+7,Roseville,-121.27121399999999,38.743534999999994,1,Placer County,Placer,31
+8,Elk Grove,-121.388703,38.408947,0,Sacramento County,Sacramento,34
+9,Lodi,-121.257655,38.117952,0,San Joaquin County,San Joaquin,39
+10,Davis,-121.76796200000001,38.522138,0,Solano County,Solano,48
+11,Vacaville,-121.954351,38.372704999999996,0,Solano County,Solano,48
+12,Richmond,-122.32683600000001,37.935728000000005,1,Contra Costa County,Contra Costa,7
+13,Oakland,-122.279569,37.800501000000004,1,Alameda County,Alameda,1
+14,San Francisco,-122.4068,37.773857,1,SF,San Francisco,38
+15,Port of SF,-122.403985,37.748917999999996,1,SF,San Francisco,38
+16,SFO,-122.396905,37.613703,1,San Mateo County,San Mateo,41
+17,San Jose,-121.901155,37.363853000000006,1,Santa Clara County,Santa Clara,43
+18,Hayward,-122.09380800000001,37.644935,1,Alameda County,Alameda,1
+19,Stockton,-121.300953,37.948402,1,San Joaquin County,San Joaquin,39
+20,Tracy,-121.331654,37.767452,0,San Joaquin County,San Joaquin,39
+21,I-5 & CA-152,-120.97011299999998,37.056776,0,Merced County,Merced,24
+22,Wheeler Ridge,-118.950957,35.003797,0,Kern County,Kern,15
+23,Modesto,-121.007921,37.639928999999995,0,Stanislaus County,Stanislaus,50
+24,Merced,-120.49318799999999,37.300335,0,Merced County,Merced,24
+25,Fresno,-119.81573600000002,36.741149,1,Fresno County,Fresno,10
+26,Bakersfield,-119.039648,35.353221999999995,0,Kern County,Kern,15
+27,San Fernando,-118.470854,34.294208000000005,0,Los Angeles County,Los Angeles,19
+28,Santa Monica,-118.43284799999999,34.030219,0,Los Angeles County,Los Angeles,19
+29,LAX,-118.368544,33.93098,1,Los Angeles County,Los Angeles,19
+31,San Pedro Bay Ports,-118.208378,33.767051,1,Los Angeles County,Los Angeles,19
+32,I-405 & I-710,-118.20772099999999,33.827017,0,Los Angeles County,Los Angeles,19
+33,Irvine,-117.730865,33.638946000000004,1,Orange County,Orange,30
+34,East LA,-118.17320500000001,34.016108,0,Los Angeles County,Los Angeles,19
+35,Downtown LA,-118.214046,34.028853999999995,1,Los Angeles County,Los Angeles,19
+36,Cal State LA,-118.16532600000001,34.061096,0,Los Angeles County,Los Angeles,19
+37,Ontario,-117.590824,34.067459,1,San Bernardino County,San Bernardino,36
+38,Sun Valley,-118.41096399999999,34.233786,0,Los Angeles County,Los Angeles,19
+39,San Diego,-117.141815,32.700506,1,San Diego County,San Diego,37
+40,Vallejo,-122.230531,38.091570000000004,0,Solano County,Solano,48
+41,San Mateo,-122.29676699999999,37.553878999999995,0,San Mateo County,San Mateo,41
+42,Gilroy,-121.55643899999998,37.002082,0,Santa Clara County,Santa Clara,43
+43,Chevron Firebaugh,-120.62201999999999,36.638199,0,Fresno County,Fresno,10
+44,Harris Ranch,-120.24353700000002,36.253328,0,Fresno County,Fresno,10
+45,Hillcrest Travel Plaza,-120.102623,36.076994,0,Fresno County,Fresno,10
+46,Kettleman City,-119.960425,35.981574,0,Kings County,Kings,16
+47,Lost Hills,-119.655239,35.618619,0,Kings County,Kings,16
+48,Buttonwillow,-119.399851,35.400492,0,Kern County,Kern,15
+49,Flag City,-121.399425,38.118615999999996,0,San Joaquin County,San Joaquin,39
+50,Ripon,-121.143354,37.752922,0,San Joaquin County,San Joaquin,39
+51,Livingston,-120.737311,37.390738,0,Merced County,Merced,24
+52,Chowchilla,-120.216793,37.098864,0,Madera County,Madera,20
+53,Pilot Travel Center Madera,-120.13083600000002,37.01997,0,Madera County,Madera,20
+54,Herndon,-119.91768300000001,36.83218,0,Fresno County,Fresno,10
+55,Malaga,-119.74309299999999,36.679182,0,Fresno County,Fresno,10
+56,Shell Truck Stop Fowler,-119.66340600000001,36.607239,0,Fresno County,Fresno,10
+57,Selma Valero Gas Staion,-119.596709,36.547321000000004,0,Fresno County,Fresno,10
+58,Traver,-119.49055,36.451963,0,Tulare County,Tulare,54
+59,Goshen,-119.427755,36.349499,0,Tulare County,Tulare,54
+60,Tulare,-119.328694,36.182342999999996,0,Tulare County,Tulare,54
+61,Tipton,-119.31098899999999,36.052756,0,Tulare County,Tulare,54
+62,Pixley,-119.292575,35.971757000000004,0,Tulare County,Tulare,54
+63,Earlimart,-119.27500500000001,35.893395,0,Tulare County,Tulare,54
+64,Akal Travel Plaza,-119.258981,35.820819,0,Tulare County,Tulare,54
+65,Flying J Travel Plaza Bakersfield,-119.18996899999999,35.53009,0,Kern County,Kern,15
+66,Bear Mountain Truck Stop,-119.01046000000001,35.208693,0,Kern County,Kern,15
+67,Lebec,-118.87378700000001,34.825707,0,Kern County,Kern,15
+68,Castaic,-118.622253,34.493555,0,Los Angeles County,Los Angeles,19
+69,Fontana,-117.438134,34.067083000000004,0,San Bernardino County,San Bernardino,36
+70,Oceanside,-117.38288,33.204365,0,San Diego County,San Diego,37
+71,Willows,-122.21488000000001,39.525656,0,Glenn County,Glenn,11
+72,Orland,-122.205669,39.750768,0,Glenn County,Glenn,11
+73,Rolling Hills Casino,-122.200252,39.88153,0,Tehama County,Tehama,52
+74,Corning,-122.200326,39.906843,0,Tehama County,Tehama,52
+75,Cottonwood,-122.28429799999999,40.367499,0,Tehama County,Tehama,52
+76,TA Redding,-122.33861399999999,40.506085999999996,0,Shasta County,Shasta,45
