@@ -13,6 +13,8 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+*testfield.ipynb
+*.egg-info/
 
 ### CHIP-MDHD
 /Local_module/Scenario_*
@@ -22,7 +24,6 @@ __pycache__/
 */credentials/*
 gurobi.log
 .Rproj.user
-
 
 ### Shapefiles and zip files (too large to commit to GitHub)
 *.zip
