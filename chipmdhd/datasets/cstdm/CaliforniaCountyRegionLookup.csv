@@ -1,0 +1,66 @@
+County_No,County/Gateway,Region_No,Region
+1,Alameda,5,MTC
+2,Alpine,7,Rest of State
+3,Amador,7,Rest of State
+4,Butte,7,Rest of State
+5,Calaveras,7,Rest of State
+6,Colusa,7,Rest of State
+7,Contra Costa,5,MTC
+8,Del Norte,7,Rest of State
+9,El Dorado,6,SACOG/TRPA
+10,Fresno,3,San Joaquin Valley
+11,Glenn,7,Rest of State
+12,Humboldt,7,Rest of State
+13,Imperial,2,SCAG
+14,Inyo,7,Rest of State
+15,Kern,3,San Joaquin Valley
+16,Kings,3,San Joaquin Valley
+17,Lake,7,Rest of State
+18,Lassen,7,Rest of State
+19,Los Angeles,2,SCAG
+20,Madera,3,San Joaquin Valley
+21,Marin,5,MTC
+22,Mariposa,7,Rest of State
+23,Mendocino,7,Rest of State
+24,Merced,3,San Joaquin Valley
+25,Modoc,7,Rest of State
+26,Mono,7,Rest of State
+27,Monterey,4,Central Coast
+28,Napa,5,MTC
+29,Nevada,7,Rest of State
+30,Orange,2,SCAG
+31,Placer,6,SACOG/TRPA
+32,Plumas,7,Rest of State
+33,Riverside,2,SCAG
+34,Sacramento,6,SACOG/TRPA
+35,San Benito,4,Central Coast
+36,San Bernardino,2,SCAG
+37,San Diego,1,SANDAG
+38,San Francisco,5,MTC
+39,San Joaquin,3,San Joaquin Valley
+40,San Luis Obispo,4,Central Coast
+41,San Mateo,5,MTC
+42,Santa Barbara,3,Central Coast
+43,Santa Clara,5,MTC
+44,Santa Cruz,4,Central Coast
+45,Shasta,7,Rest of State
+46,Sierra,7,Rest of State
+47,Siskiyou,7,Rest of State
+48,Solano,5,MTC
+49,Sonoma,5,MTC
+50,Stanislaus,3,San Joaquin Valley
+51,Sutter,6,SACOG/TRPA
+52,Tehama,7,Rest of State
+53,Trinity,7,Rest of State
+54,Tulare,6,San Joaquin Valley
+55,Tuolumne,7,Rest of State
+56,Ventura,2,SCAG
+57,Yolo,6,SACOG/TRPA
+58,Yuba,6,SACOG/TRPA
+59, Oregon,8,External Gateway
+60, Nevada North,8,External Gateway
+61, Nevada South,8,External Gateway
+62, Arizona,8,External Gateway
+63, Mexico,8,External Gateway
+64, Port of LA,8,External Gateway
+65, Port of Oakland,8,External Gateway
