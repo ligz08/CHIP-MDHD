@@ -7,7 +7,7 @@ This module deals with planning of a wide-area refueling network, with HRS (hydr
 - Python
 - [Gurobi Optimizer](http://www.gurobi.com/products/gurobi-optimizer)
 
-I recommend installing the Anaconda Python distribution, which makes working with Gurobi easier. See the [Prepare Software Environment for CHIP-MDHD](../prep-software-guide.md) guide for how to install Anaconda Python and Gurobi.
+I recommend installing the Anaconda Python distribution, which makes working with Gurobi easier. See the [Prepare Software Environment for CHIP-MDHD](../docs/prep-software-guide.md) guide for how to install Anaconda Python and Gurobi.
 
 # Instructions for Using This Module
 ## Notes before you start
@@ -17,7 +17,7 @@ I recommend installing the Anaconda Python distribution, which makes working wit
 
 ## Step-by-step instructions
 ### 1. Activate `CHIP-MDHD` Python Environment
-From the [Prepare Software Environment for CHIP-MDHD](../prep-software-guide.md) guide, you should have installed Anaconda Python distribution and created a virtual environment for `CHIP-MDHD`. 
+From the [Prepare Software Environment for CHIP-MDHD](../docs/prep-software-guide.md) guide, you should have installed Anaconda Python distribution and created a virtual environment for `CHIP-MDHD`. 
 
 Run the following command in your CLI to activate the `CHIP-MDHD` virtual environment.
 ```powershell
