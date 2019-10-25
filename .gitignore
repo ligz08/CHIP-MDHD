@@ -21,6 +21,9 @@ __pycache__/
 # !/Local_module/Scenario_40KLocalFCETby2030/
 !/Local_module/Scenario_Template/
 !/Local_module/Scenario_Baseline/
+/LongHaul_module/Scenario_*
+!/LongHaul_module/Scenario_Baseline/
+!/LongHaul_module/scenario_Range800km/
 */credentials/*
 gurobi.log
 .Rproj.user
