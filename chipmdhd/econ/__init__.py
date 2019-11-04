@@ -1,6 +1,12 @@
+from .. import DEFAULT_MODELING_YEAR, DEFAULT_INFLATION_RATE
+
 class Dollar(object):
-    default_baseyear = 2016
-    rate = 1.04
+    default_baseyear = DEFAULT_MODELING_YEAR
+    inflation_rate = DEFAULT_INFLATION_RATE
+    
+    @property
+    def rate(self):
+        return 1 + self.inflation_rate
 
     def __init__(self, amount=0.0, dollaryear=default_baseyear):
         self.amount = amount
