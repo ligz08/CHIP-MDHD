@@ -15,6 +15,8 @@ __pycache__/
 .ipynb_checkpoints/
 *testfield.ipynb
 *.egg-info/
+build/
+dist/
 
 ### CHIP-MDHD
 /Local_module/Scenario_*
