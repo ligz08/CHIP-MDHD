@@ -1,4 +1,4 @@
-from .. import DEFAULT_MODELING_YEAR, DEFAULT_INFLATION_RATE
+from . import DEFAULT_MODELING_YEAR, DEFAULT_INFLATION_RATE
 
 class Dollar(object):
     default_baseyear = DEFAULT_MODELING_YEAR
