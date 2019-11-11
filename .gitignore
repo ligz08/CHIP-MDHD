@@ -29,6 +29,7 @@ dist/
 */credentials/*
 gurobi.log
 .Rproj.user
+TODO.md
 
 ### Shapefiles and zip files (too large to commit to GitHub)
 *.zip
