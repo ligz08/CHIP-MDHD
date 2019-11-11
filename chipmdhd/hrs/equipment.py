@@ -1,6 +1,7 @@
 import abc
 from . import CostItem
 from ..econ import Dollar
+from .. import physics
 from .. import DEFAULT_MODELING_YEAR
 
 
@@ -19,11 +20,27 @@ class Equipment(CostItem):
         Mass of product output / mass of product input.
         Not always applicable to every equipment.
         """
-        pass
+        return 1.0
 
 
-class Compressor(Equipment):
-    pass
+class HydrogenCompressor(Equipment):
+    """
+    A hydrogen compressor takes in low-pressure GH2 (e.g. 20 bar), 
+    and compresses it to a higher pressure (e.g. 900 bar or 500 bar).
+    """
+    def __init__(self, in_pressure=1, out_pressure=1, throughput=0.0, **params):
+        super().__init__(**params)
+        self.in_pressure = in_pressure      # unit: bar
+        self.out_pressure = out_pressure    # unit: bar
+        self.throughput = throughput        # unit: kg/min
+    
+    def _calc(self):
+        self.compressibility_factor = 1.0   # TODO
+        self.theory_power_required = 0.0    # unit: kW. TODO
+    
+    def init_cap_cost(self):
+        return 0    # TODO
+
 
 
 class HydrogenStorage(Equipment):
@@ -42,11 +59,11 @@ class HydrogenDispenser(Equipment):
         self.outflow_kgpm = params.get('outflow_kgpm') or 0.0   # unit: kg/min
 
 
-class Refigerator(Equipment):
+class Refrigerator(Equipment):
     pass
 
 
-class ElectricalControler(Equipment):
+class ElectricalController(Equipment):
     pass
 
 
