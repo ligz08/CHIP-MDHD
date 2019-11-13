@@ -1,0 +1,267 @@
+hub_name,hub_type,full_address,lon,lat,zip
+Port Oakland,Port,"1 Market St, Oakland, CA 94607",-122.2854,37.796529,94607
+Port Long Beach,Port,"Port of Long Beach, Long Beach, CA 90802, USA",-118.216458,33.754185,90802
+Port Los Angeles,Port,"Port of Los Angeles, Los Angeles, CA, USA",-118.260246,33.738009,90731
+Port San Diego,Port,"687 Switzer Street, San Diego, CA 92101-7810",-117.15652,32.698997,92101
+Port Redwood City,Port,"675 Seaport Blvd, Redwood City, CA 94063, USA",-122.209147,37.507674,94063
+Port San Francisco,Port,"Pier 80, San Francisco, CA",-122.379575,37.750239,94124
+Port Richmond,Port,"1411 Harbour Way S, Richmond, CA 94804, USA",-122.360593,37.913141,94804
+Port Hueneme,Port,"333 Ponoma St, Port Hueneme, CA 93041, USA",-119.200472,34.150879,93041
+Port Stockton,Port,"2201 W Washington St, Stockton, CA 95203, USA",-121.322365,37.945988,95203
+Bob Hope (Burbank) Airport (BUR),Airport,"4699 W Empire Ave, Burbank, CA 91505, USA",-118.361026,34.19468,91505
+Fresno Yosemite International Airport (FAT),Airport,"5175 East Clinton Way, Fresno, CA 93727",-119.720755,36.767063,93727
+John Wayne / Orange County Airport (SNA),Airport,"3000 E Airway Ave, Costa Mesa, CA 92626",-117.875112,33.671815,92626
+Long Beach Municipal Airport (LGB),Airport,"4600 E Spring St, Long Beach, CA 90808",-118.140487,33.812015,90808
+Los Angeles International Airport (LAX),Airport,"11101 Aviation Blvd, Los Angeles, CA 90045",-118.37956,33.934391,90045
+Los Angeles Ontario International Airport (ONT),Airport,"1800 East Airport Dr., Hanger 20, Ontario, CA 91786, United States",-117.617899,34.059892,91786
+Norman Y. Mineta San Jose International Airport (SJC),Airport,"1521 Airport Blvd, San Jose, CA 95110, USA",-121.919236,37.359941,95110
+Oakland International Airport (OAK),Airport,"1 Alan Shepard Way, Oakland, CA 94621, USA",-122.214768,37.715275,94621
+Sacramento International Airport (SMF),Airport,"6701 Lindbergh Dr, Sacramento, CA 95837, USA",-121.59465,38.690255,95837
+Sacramento Mather Airport (MHR),Airport,"Mather Airport, 10425 Norden Ave, Mather, CA 95655, USA",-121.297211,38.563659,95655
+San Diego International Airport (SAN),Airport,"2357 Airlane Rd, San Diego, CA 92101, USA",-117.194602,32.730664,92101
+San Francisco International Airport (SFO),Airport,"950 N Field Rd, South San Francisco, CA 94080, USA",-122.390152,37.636824,94080
+Ames Industrial Park,Industrial Park,"1000 Ames Ave, Milpitas, CA 95035, USA",-121.889662,37.419473,95035
+Arch Road Logistics Center,Industrial Park,"5445 Arch Rd, Stockton, CA 95215, USA",-121.202252,37.905358,95215
+Beckman Industrial Park,Industrial Park,"700 Industrial Way, Lodi, CA 95240, USA",-121.256746,38.125545,95240
+Broken Drum Industrial Park,Industrial Park,"3273 N San Fernando Rd, Los Angeles, CA 90065, USA",-118.2477686,34.1178939,90065
+Buena Park Industrial Center,Industrial Park,"6900 8th St, Buena Park, CA 90620, USA",-118.0129969,33.86676,90620
+California Logistics Centre,Industrial Park,"15382 Harlan Rd, Lathrop, CA 95330, USA",-121.290175,37.822605,95330
+Campbell Industrial Park,Industrial Park,"230 Harrison Ave, Campbell, CA 95008, USA",-121.9420562,37.290463,95008
+Carmelo Industrial Park,Industrial Park,"7400 Carmelo Ave, Tracy, CA 95304, USA",-121.398303,37.741892,95304
+Central Valley Industrial Park,Industrial Park,"10948 S Airport Way, Manteca, CA 95336, USA",-121.2554631,37.8615048,95336
+Charter Industrial Area,Industrial Park,"245 W Charter Way, Stockton, CA 95206, USA",-121.2906706,37.9382078,95206
+Cherokee Industrial Park,Industrial Park,"2895 Teepee Dr, Stockton, CA 95205, USA",-121.256206,37.987465,95205
+Collins Industrial Park,Industrial Park,"3701 Collins Ave, Richmond, CA 94806, USA",-122.3537186,37.981614,94806
+Concord Diablo Industrial Park,Industrial Park,"4030 Pike Ln, Concord, CA 94520, USA",-122.0305432,38.0107461,94520
+Concord Industrial Park,Industrial Park,"1850 Bates Ave, Concord, CA 94520, USA",-122.0454229,38.0106426,94520
+Conti Industrial Park,Industrial Park,"4755 Hannover Pl, Fremont, CA 94538, USA",-121.9621479,37.5062623,94538
+Corona Industrial Park,Industrial Park,"1128 E 6th St, Corona, CA 92879, USA",-117.5514256,33.8742627,92879
+Cupertino Industrial Park,Industrial Park,"10381 Bandley Dr, Cupertino, CA 95014, USA",-122.0350223,37.3274913,95014
+Delta Court Industrial Park,Industrial Park,"1670 Delta Ct, Hayward, CA 94544, USA",-122.062886,37.613254,94544
+Diablo Industrial Park,Industrial Park,"25398 Clawiter Rd, Hayward, CA 94545, USA",-122.119748,37.635815,94545
+Edgewater Industrial Center,Industrial Park,"7200 Edgewater Dr, Oakland, CA 94621, USA",-122.2072146,37.7485242,94621
+El Pinal Industrial Park,Industrial Park,"1999 El Pinal Dr, Stockton, CA 95205, USA",-121.275482,37.986017,95205
+Enterprise Distribution Center,Industrial Park,"3670 Enterprise Ave, Hayward, CA 94545, USA",-122.1325437,37.6332197,94545
+Fairgrounds Industrial Park,Industrial Park,"1331 S Wilson Way, Stockton, CA 95205, USA",-121.268202,37.942209,95205
+Fremont Industrial Park,Industrial Park,"44462 Osgood Rd, Fremont, CA 94539, USA",-121.9379506,37.5080457,94539
+Giant Trade Center,Industrial Park,"3002 Giant Road, San Pablo, CA 94806, USA",-122.3542101,37.9748555,94806
+Gladstone Industrial Park,Industrial Park,"2031 Gladstone St, San Dimas, CA 91773, USA",-117.825806,34.114227,91773
+Goldring Industrial Park,Industrial Park,"11606 Clark St, Arcadia, CA 91006, USA",-118.0084623,34.1020432,91006
+Grant Industrial Park,Industrial Park,"3802 Wilcox Rd, Stockton, CA 95215, USA",-121.251385,37.996416,95215
+Hayman Street Industrial Complex,Industrial Park,"31902 Hayman St, Hayward, CA 94544, USA",-122.0446411,37.6073481,94544
+Hensley Industrial Park,Industrial Park,"983 Hensley St, Richmond, CA 94801, USA",-122.3666405,37.9458826,94801
+Hesperian Industrial Park,Industrial Park,"28800 Hesperian Blvd, Hayward, CA 94545, USA",-122.086817,37.615128,94545
+Hilltop Industrial Park,Industrial Park,"4102 Lakeside Dr, Richmond, CA 94806, USA",-122.331462,37.987634,94806
+Koll Arden Industrial Center,Industrial Park,"3532 Arden Rd, Hayward, CA 94545, USA",-122.1180382,37.6223977,94545
+La Cienega Industrial Park,Industrial Park,"3341 La Cienega Pl, Los Angeles, CA 90016, USA",-118.3757091,34.0276925,90016
+Lathrop Industrial Park,Industrial Park,"17900 Shideler Pkwy, Lathrop, CA 95330, USA",-121.266402,37.797313,95330
+Los Angeles Industrial Park,Industrial Park,"1490 Walnut Park Way, Compton, CA 90220, USA",-118.2459628,33.8767457,90220
+Mabury Industrial Park,Industrial Park,"1605 Mabury Rd, San Jose, CA 95133, USA",-121.8724157,37.3657661,95133
+MacArthur Industrial Park,Industrial Park,"2250 N MacArthur Dr, Tracy, CA 95376, USA",-121.4119852,37.7525352,95376
+Manteca Industrial Park,Industrial Park,"668 Industrial Park Dr, Manteca, CA 95337, USA",-121.209029,37.785125,95337
+Mason Industrial Park,Industrial Park,"140 Mason Cir, Concord, CA 94520, USA",-122.0392891,38.0105918,94520
+Massie Industrial Park,Industrial Park,"1598 Industrial Dr, Stockton, CA 95206, USA",-121.258559,37.910974,95206
+Milpitas Industrial Park,Industrial Park,"881 Wrigley Way, Milpitas, CA 95035, USA",-121.890266,37.4282266,95035
+Monrovia Industrial Park,Industrial Park,"1825 Peck Rd, Monrovia, CA 91016, USA",-118.0044456,34.1313993,91016
+North County Industrial Park,Industrial Park,"1401 Sycamore Ave, Vista, CA 92081, USA",-117.233155,33.148131,92081
+North Hayward Industrial Park,Industrial Park,"19825 Cabot Blvd, Hayward, CA 94545, USA",-122.1395514,37.6556946,94545
+Oakmead Industrial Park,Industrial Park,"1231 Midas Way, Sunnyvale, CA 94085, USA",-121.9916483,37.3856431,94085
+Rancho Sierra Industrial Park,Industrial Park,"12155 Magnolia Ave, Riverside, CA 92503, USA",-117.4946537,33.8944748,92503
+Rheem Industrial Park,Industrial Park,"740 Market Ave, Richmond, CA 94801, USA",-122.3610237,37.9583369,94801
+Saticoy Industrial Park,Industrial Park,"13136 Saticoy St, North Hollywood, CA 91605, USA",-118.4193351,34.2075956,91605
+Shary Industrial Park,Industrial Park,"1033 Shary Cir, Concord, CA 94518, USA",-122.03195,37.952558,94518
+Stonebridge Industrial Park,Industrial Park,"799 Grant Line Rd, Tracy, CA 95304, USA",-121.414688,37.754169,95304
+Sycamore Industrial Park,Industrial Park,"715 Sycamore Dr, Milpitas, CA 95035, USA",-121.9170362,37.4091676,95035
+Torrey Knolls Industrial Park,Industrial Park,"11211 Sorrento Valley Rd, San Diego, CA 92121, USA",-117.2270442,32.9068202,92121
+Triangle Industrial Park,Industrial Park,"2103 Stagecoach Rd, Stockton, CA 95215, USA",-121.232188,37.941035,95215
+Victory Industrial Park,Industrial Park,"13045 Tom White Way, Norwalk, CA 90650, USA",-118.0537031,33.9055892,90650
+Walnut Industrial Park,Industrial Park,"2300 Walnut Ave, Signal Hill, CA 90755, USA",-118.1718904,33.7996022,90755
+West Park Logistics Center,Industrial Park,"2201-2999 Fink Rd, Newman, CA 95360, USA",-121.110967,37.391643,95360
+Westminster Industrial Center,Industrial Park,"1033 Westminster Ave, Alhambra, CA 91803, USA",-118.1559221,34.0820104,91803
+Whitehall Industrial Park,Industrial Park,"398 W Larch Rd, Tracy, CA 95304, USA",-121.431616,37.765041,95304
+Wiegman Distribution Center,Industrial Park,"30736 Wiegman Rd, Hayward, CA 94544, USA",-122.0596624,37.6161496,94544
+Williams Street Industrial Park,Industrial Park,"2010 Williams St, San Leandro, CA 94577, USA",-122.1766344,37.7112434,94577
+Winton Industrial Center,Industrial Park,"2588 W Winton Ave, Hayward, CA 94545, USA",-122.1406342,37.6516747,94545
+Winton Logistics Center,Industrial Park,"2399 W Winton Ave, Hayward, CA 94545, USA",-122.1374216,37.6537701,94545
+Wrigley Creek Industrial Park,Industrial Park,"200 Railroad Ave, Milpitas, CA 95035, USA",-121.9058113,37.4335705,95035
+Zanker/Charcot Industrial Park,Industrial Park,"251 Charcot Ave, San Jose, CA 95131, USA",-121.9160225,37.3816595,95131
+Centerpoint Intermodal Center,Industrial Park,"1499 Roth Rd, Manteca, CA 95336, USA",-121.255457,37.855575,95336
+Fairchild Industrial Park,Industrial Park,"6698 Waterloo Rd, Stockton, CA 95215, USA",-121.218905,38.004751,95215
+Old River Industrial Park,Industrial Park,"23577 Mountain House Pkwy, Tracy, CA 95391, USA",-121.535655,37.746544,95391
+ProLogis Park Duck Creek,Industrial Park,"2115 S Sinclair Ave, Stockton, CA 95215, USA",-121.226353,37.940143,95215
+LA MTA Division 1 Maintenance Yard,Bus Yard,"1130 E 6th St, Los Angeles, CA 90021, USA",-118.239042,34.038218,90021
+LA MTA Division 2 Maintenance Yard,Bus Yard,"720 E 15th St, Los Angeles, CA 90021, USA",-118.254766,34.03008,90021
+LA MTA Division 3 Maintenance Yard,Bus Yard,"630 W Ave 28, Los Angeles, CA 90065, USA",-118.223842,34.087746,90065
+LA MTA Division 5 Maintenance Yard,Bus Yard,"5425 S Van Ness Ave, Los Angeles, CA 90062, USA",-118.317531,33.99241,90062
+LA MTA Division 6 Maintenance Yard,Bus Yard,"100 Sunset Ave, Venice, CA 90291, USA",-118.477227,33.993939,90291
+LA MTA Division 7 Maintenance Yard,Bus Yard,"8800 Santa Monica Blvd, West Hollywood, CA 90069, USA",-118.382598,34.085847,90069
+LA MTA Division 8 Maintenance Yard,Bus Yard,"9201 Canoga Ave, Chatsworth, CA 91311, USA",-118.59802,34.236879,91311
+LA MTA Division 9 Maintenance Yard,Bus Yard,"3449 Santa Anita Ave, El Monte, CA 91731, USA",-118.044775,34.071471,91731
+LA MTA Division 10 Maintenance Yard,Bus Yard,"742 N Mission Rd, Los Angeles, CA 90033, USA",-118.21903,34.056083,90033
+LA MTA Division 11 Maintenance Yard,Bus Yard,"11900 Branford St, Sun Valley, CA 91352, USA",-118.391344,34.256439,91352
+LA MTA Division 13 Maintenance Yard,Bus Yard,"920 N Vignes St, Los Angeles, CA 90012, USA",-118.231736,34.057246,90012
+LA MTA Division 15 Maintenance Yard,Bus Yard,"11900 Branford St, Sun Valley, CA 91352, USA",-118.391344,34.256439,91352
+LA MTA Division 18 Maintenance Yard,Bus Yard,"450 W Griffith St, Gardena, CA 90248, USA",-118.280952,33.859763,90248
+OCTA Garden Grove Garage,Bus Yard,"11790 Cardinal Cir, Garden Grove, CA 92843, USA",-117.924077,33.765023,92843
+OCTA Santa Ana Garage,Bus Yard,"4301 W MacArthur Blvd, Santa Ana, CA 92704, USA",-117.926838,33.703414,92704
+SD MTS Imperial Avenue Division Yard,Bus Yard,"100 16th St, San Diego, CA 92101, USA",-117.149675,32.706799,92101
+SD MTS Kearny Mesa Division Yard,Bus Yard,"4630 Ruffner St, San Diego, CA 92111, USA",-117.158051,32.824719,92111
+SD MTS South Bay Bus Maintenance Facility,Bus Yard,"3650 Main St, Chula Vista, CA 91911, USA",-117.054362,32.595727,91911
+SD MTS East County Bus Maintenance Facility,Bus Yard,"1213 N Johnson Ave, El Cajon, CA 92020, USA",-116.970398,32.812748,92020
+SD MTS Copley Park Maintenance Facility,Bus Yard,"7490 Copley Park Pl, San Diego, CA 92111, USA",-117.157597,32.836649,92111
+AC Transit Emeryville Facility,Bus Yard,"1147 47th St, Emeryville, CA 94608, USA",-122.282589,37.835392,94608
+AC Transit Richmond Facility,Bus Yard,"2016 Macdonald Ave, Richmond, CA 94801, USA",-122.350375,37.934893,94801
+AC Transit East Oakland Facility,Bus Yard,"1100 Seminary Ave, Oakland, CA 94621, USA",-122.204458,37.760994,94621
+AC Transit Hayward Facility,Bus Yard,"1758 Sabre St, Hayward, CA 94545, USA",-122.130302,37.655923,94545
+VTA Chaboya Division Yard,Bus Yard,"2240 S 7th St, San Jose, CA 95112, USA",-121.855194,37.307254,95112
+VTA Cerone Yard,Bus Yard,"Holger Way, San Jose, CA 95134, USA",-121.935656,37.417728,95134
+VTA North Yard,Bus Yard,"1235 La Avenida St, Mountain View, CA 94043, USA",-122.075179,37.413082,94043
+SamTrans North Base,Bus Yard,"301 N Access Rd, South San Francisco, CA 94080, USA",-122.39219,37.641257,94080
+SamTrans South Base,Bus Yard,"500 Pico Blvd, San Carlos, CA 94070, USA",-122.251666,37.517478,94070
+Sacramento RT North Lot,Bus Yard,"N St & 29th St, Sacramento, CA 95816, USA",-121.469833,38.569062,95816
+Santa Monica Big Blue Bus Yard,Bus Yard,"1660 7th St, Santa Monica, CA 90401, USA",-118.487769,34.014439,90401
+Golden Gate Transit San Rafael Bus Facility,Bus Yard,"1011 Andersen Dr, San Rafael, CA 94901, USA",-122.503212,37.955827,94901
+Golden Gate Transit Santa Rosa Facility,Bus Yard,"3225 Industrial Dr, Santa Rosa, CA 95403, USA",-122.741082,38.471466,95403
+Golden Gate Transit Novato Facility,Bus Yard,"901 Golden Gate Pl, Novato, CA 94945, USA",-122.565507,38.113603,94945
+Golden Gate Transit SF Facility,Bus Yard,"3rd St & Perry St, San Francisco, CA 94107, USA",-122.396867,37.782139,94107
+RTA Riverside Facility,Bus Yard,"1825 3rd St, Riverside, CA 92507, USA",-117.350948,33.983469,92507
+RTA Hemet Facility,Bus Yard,"700 Scaramella Cir, Hemet, CA 92545, USA",-117.010707,33.735791,92545
+Fresno Area Express Transit Operations and Maintenance Facility,Bus Yard,"2223 G St, Fresno, CA 93706, USA",-119.807763,36.742967,93706
+Santa Barbara MTD Garage,Bus Yard,"550 Olive St, Santa Barbara, CA 93101, USA",-119.690386,34.422692,93101
+Santa Cruz METRO Maintenance Yard,Bus Yard,"120 Golf Club Dr, Santa Cruz, CA 95060, USA",-122.032742,36.989962,95060
+Monterey-Salinas Transit Yard,Bus Yard,"1 Ryan Ranch Rd, Monterey, CA 93940, USA",-121.828625,36.584882,93940
+Santa Clarita Transit Maintenance Facility,Bus Yard,"28273 Alta Vista Ave, Santa Clarita, CA 91355, USA",-118.575113,34.44882,91355
+UPS CC - BAKERSFIELD 11318,Package Delivery Center,"3800 N SILLECT AVE, BAKERSFIELD, CA, 93308-6358",-119.03617,35.394386,93308
+UPS CC - MOJAVE 11497,Package Delivery Center,"1522 SABOVICH, MOJAVE, CA, 93501-1681",-118.15535,35.055282,93501
+UPS CC - LANCASTER 11492,Package Delivery Center,"290 W AVE L AVE, LANCASTER, CA, 93534-7109",-118.13225,34.660765,93534
+UPS CC - VISALIA 11321,Package Delivery Center,"10609 W GOSHEN AVE, VISALIA, CA, 93291-9496",-119.41408,36.341621,93291
+UPS CC - RIDGECREST 11496,Package Delivery Center,"711 W RIDGECREST BLVD, RIDGECREST, CA, 93555-4020",-117.68363,35.622501,93555
+UPS CC - VENTURA 11485,Package Delivery Center,"2559 PALMA DR, VENTURA, CA, 93003-5733",-119.22781,34.250053,93003
+UPS CC - GOLETA 11489,Package Delivery Center,"505 PINE AVE, GOLETA, CA, 93117-3707",-119.82661,34.432434,93117
+UPS CC - NEWBURY PARK 11481,Package Delivery Center,"1501 RANCHO CONEJO BLVD, NEWBURY PARK, CA, 91320-1410",-118.92383,34.199958,91320
+UPS CC - SYLMAR 11031,Package Delivery Center,"12745 ARROYO ST, SYLMAR, CA, 91342-5332",-118.40969,34.296199,91342
+UPS CC - VAN NUYS 11021,Package Delivery Center,"16000 ARMINTA ST, VAN NUYS, CA, 91406-1808",-118.48145,34.212671,91406
+UPS CC - SANTA MARIA 11494,Package Delivery Center,"309 COOLEY LN, SANTA MARIA, CA, 93455-1218",-120.43958,34.918685,93455
+UPS CC - SAN LUIS OBISPO 11491,Package Delivery Center,"3601 SACRAMENTO DR, SAN LUIS OBISPO, CA, 93401-7115",-120.64328,35.256145,93401
+UPS CC LOS ANGELES 11026,Package Delivery Center,"10690 SANTA MONICA BLVD, LOS ANGELES, CA, 90025-4838",-118.43173,34.052028,90025
+UPS CC - LOS ANGELES 11022,Package Delivery Center,"950 S BLAINE ST, LOS ANGELES, CA, 90015-1220",-118.26946,34.048156,90015
+UPS CC - LOS ANGELES 11023,Package Delivery Center,"1800 N MAIN ST, LOS ANGELES, CA, 90031-3262",-118.2189,34.065794,90031
+UPS CC - FRESNO 11317,Package Delivery Center,"1601 W MCKINLEY, FRESNO, CA, 93728-1220",-119.82976,36.764732,93728
+UPS CC - BALDWIN PARK 11024,Package Delivery Center,"1100 BALDWIN PARK BLVD, BALDWIN PARK, CA, 91706-5807",-117.98446,34.06475,91706
+UPS CC - GARDENA 11477,Package Delivery Center,"17115 S WESTERN, GARDENA, CA, 90247-5223",-118.30913,33.875694,90247
+UPS CC - VICTORVILLE 11483,Package Delivery Center,"17370 JASMINE, VICTORVILLE, CA, 92392",-117.28311,34.474941,92392
+UPS CERRITOS 11027,Package Delivery Center,"13233 MOORE ST, CERRITOS, CA, 90703-2259",-118.05155,33.882347,90703
+UPS CC CHICO 11314,Package Delivery Center,"401 OTTERSON DR, CHICO, CA, 95928-8207",-121.81643,39.706241,95928
+UPS CC - MARYSVILLE 11331,Package Delivery Center,"1470 FURNEAUX, MARYSVILLE, CA, 95901",-121.56187,39.107215,95901
+UPS CC - QUANCY 10698,Package Delivery Center,"233 DANNY CT, QUINCY, CA, 95971-9414",-120.90497,39.938602,95971
+UPS CC - GRASS VALLEY 11305,Package Delivery Center,"12025 CHARLES DR, GRASS VALLEY, CA, 95945-8412",-121.01547,39.219154,95945
+UPS CC  - ANDERSON 11325,Package Delivery Center,"6845 EASTSIDE RD, ANDERSON, CA, 96007-9406",-122.36067,40.491706,96007
+UPS CC - ROCKLIN 11326,Package Delivery Center,"2275 SIERRA MEADOWS, ROCKLIN, CA, 95677-2111",-121.22297,38.799407,95677
+UPS CC - LAKEPORT 11328,Package Delivery Center,"1275 CRAIG AVE, LAKEPORT, CA, 95453-5704",-122.92876,39.036895,95453
+UPS CC - WEST SACRAMENTO 11315,Package Delivery Center,"1380 SHORE ST, WEST SACRAMENTO, CA, 95691-3522",-121.5462,38.571533,95691
+UPS CC UKIAH 11322,Package Delivery Center,"259 CHERRY ST, UKIAH, CA, 95482-5804",-123.20282,39.13943,95482
+UPS CORDOVA BUILDING 93411,Package Delivery Center,"3930 KRISTI CT, SACRAMENTO, CA, 95827-9716",-121.32633,38.552508,95827
+UPS CC - SUSANVILLE 11333,Package Delivery Center,"47190 AIRPORT RD, SUSANVILLE, CA, 96130",-120.6006,40.594793,96130
+UPS CC - SANTA ROSA 11323,Package Delivery Center,"3331 INDUSTRIAL DR, SANTA ROSA, CA, 95403-2062",-122.74006,38.47459,95403
+UPS CC - NAPA 11330,Package Delivery Center,"2531 NAPA VALLEY CORP DR, NAPA, CA, 94558-6282",-122.27465,38.25674,94558
+UPS CC - FAIRFIELD 11313,Package Delivery Center,"5000 W CORDELIA RD, FAIRFIELD, CA, 94534-1628",-122.14155,38.209392,94534
+UPS CC - FORT BRAGG 11335,Package Delivery Center,"18101 OCEAN DR, FORT BRAGG, CA, 95437-9297",-123.80995,39.406658,95437
+UPS CC - PETALUMA 11340,Package Delivery Center,"3860 CYPRESS DR, PETALUMA, CA, 94954-5613",-122.58856,38.226795,94954
+UPS CC - SOUTH LAKE TAHOE 11334,Package Delivery Center,"1746 D ST, SOUTH LAKE TAHOE, CA, 96150-6227",-120.01113,38.906124,96150
+UPS CC-OAKLEY 143816,Package Delivery Center,"5300 LIVE OAK AVE, OAKLEY, CA, 94561-4177",-121.74039,38.001942,94561
+UPS CC - CONCORD 11312,Package Delivery Center,"1970 OLIVERA, CONCORD, CA, 94520-5425",-122.04938,37.998523,94520
+UPS CC - MERCED 11329,Package Delivery Center,"334 S HWY 59, MERCED, CA, 95340",-120.48721,37.283126,95340
+UPS CC - BISHOP 11495,Package Delivery Center,"2915 N SIERRA HWY, BISHOP, CA, 93514-7633",-118.43006,37.375767,93514
+UPS CC - CERES 11324,Package Delivery Center,"1400 HIL MOR CT, CERES, CA, 95307-9292",-120.97103,37.598285,95307
+UPS CC - ANGELS CAMP 11341,Package Delivery Center,"2342 GUN CLUB RD, ANGELS CAMP, CA, 95222",-120.5274,38.050422,95222
+UPS CC - SALINAS 11319,Package Delivery Center,"1139 MADISON LN, SALINAS, CA, 93907-1817",-121.67536,36.693607,93907
+UPS CC - MONTEREY 11339,Package Delivery Center,"6 UPPER RAGSDALE, MONTEREY, CA, 93940-5730",-121.81489,36.579757,93940
+UPS CC - STOCKTON 11316,Package Delivery Center,"1532 N BROADWAY, STOCKTON, CA, 95205-3045",-121.25099,37.977535,95205
+UPS CC - SAN JOSE 11338,Package Delivery Center,"1999 S 7TH ST, SAN JOSE, CA, 95112-6009",-121.86327,37.310891,95112
+UPS CC - SANTA CRUZ 11327,Package Delivery Center,"251 SYLVANIA ST, SANTA CRUZ, CA, 95060-2161",-122.03481,36.98455,95060
+UPS CC - SUNNYVALE 11308,Package Delivery Center,"1245 HAMMERWOOD AVE, SUNNYVALE, CA, 94089-2217",-121.99051,37.405869,94089
+UPS CC - MENLO PARK 11311,Package Delivery Center,"1355 ADAMS CT, MENLO PARK, CA, 94025-1443",-122.14373,37.478531,94025
+UPS CC - SAN RAMON 11343,Package Delivery Center,"4500 NORRIS CANYON RD, SAN RAMON, CA, 94583-1369",-121.96891,37.772903,94583
+UPS CC - ANAHEIM 11476,Package Delivery Center,"1331 S VERNON ST, ANAHEIM, CA, 92805-6441",-117.89347,33.813949,92805
+UPS CC - ONTARIO 11482,Package Delivery Center,"3480 JURUPA AVE, ONTARIO, CA, 91761-2904",-117.57655,34.048221,91761
+UPS CC - ALISO VIEJO 11480,Package Delivery Center,"22 BROOKLINE DR, ALISO VIEJO, CA, 92656-1461",-117.72989,33.590816,92656
+UPS CC - AVALON 11025,Package Delivery Center,"231 CATALINA, AVALON, CA, 90704",-118.32629,33.342182,90704
+UPS CC - RIVERSIDE 11490,Package Delivery Center,"1391 SPRUCE, RIVERSIDE, CA, 92507-2495",-117.34188,33.990283,92507
+UPS CC - SAN BERNARDINO 11486,Package Delivery Center,"1457 E VICTORIA AVE, SAN BERNARDINO, CA, 92408-2923",-117.2559,34.07431,92408
+UPS CC - ROMOLAND 11493,Package Delivery Center,"25283 SHERMAN RD, ROMOLAND, CA, 92585-9352",-117.17995,33.749906,92585
+UPS CC - YREKA 10697,Package Delivery Center,"1535 LUCAS RD, YREKA, CA, 96097-9405",-122.64735,41.710464,96097
+UPS CC EUREKA 11320,Package Delivery Center,"712 W CLARK, EUREKA, CA, 95501-0140",-124.17587,40.796562,95501
+UPS CC - CRESCENT CITY 11332,Package Delivery Center,"224 ELK VALLEY RD, CRESCENT CITY, CA, 95531-4458",-124.18104,41.753467,95531
+UPS CC - RICHMOND 11342,Package Delivery Center,"1601 ATLAS RD, RICHMOND, CA, 94806-1101",-122.34894,37.997047,94806
+UPS CC - SAN RAFAEL 11310,Package Delivery Center,"2985 KERNER BLVD, SAN RAFAEL, CA, 94901-5516",-122.49777,37.955295,94901
+UPS CC - OAKLAND 11309,Package Delivery Center,"8400 PARDEE DR, OAKLAND, CA, 94621-1412",-122.20031,37.729767,94621
+UPS CC - SAN FRANCISCO 11306,Package Delivery Center,"320 SAN BRUNO AVE, SAN FRANCISCO, CA, 94103",-122.40557,37.765476,94103
+UPS CC - SAN DIEGO 11478,Package Delivery Center,"7925 RONSON RD, SAN DIEGO, CA, 92111-1910",-117.15139,32.829128,92111
+UPS CC - CHULA VISTA 11479,Package Delivery Center,"2300 BOSWELL CT, CHULA VISTA, CA, 91914-3520",-116.96845,32.654945,91914
+UPS CC - SAN MARCOS 11487,Package Delivery Center,"111 BINGHAM DR, SAN MARCOS, CA, 92069-1401",-117.18569,33.141869,92069
+UPS CC - PALM SPRINGS 11488,Package Delivery Center,"650 COMMERCIAL, PALM SPRINGS, CA, 92262-6211",-116.51618,33.831737,92262
+UPS CC - EL CENTRO 10549,Package Delivery Center,"160 W MAIN ST, EL CENTRO, CA, 92243-2513",-115.5455,32.792743,92243
+UPS CC - YUCCA VALLEY 62292,Package Delivery Center,"56174 PALMS HWY, YUCCA VALLEY, CA, 92284",-116.4391,34.120679,92284
+UPS CC - SO SANFRANCISCO 11307,Package Delivery Center,"657 FORBES BLVD, SO SAN FRANCISCO, CA, 94080-2021",-122.38246,37.659069,94080
+FedEx Ship Center Bakersfield BFLA,Package Delivery Center,"2103 Airport Dr, Bakersfield, CA 93308",-119.039478,35.425314,93308
+FedEx Ship Center Canoga Park JSNA,Package Delivery Center,"21300 Vanowen St, Canoga Park, CA 91303",-118.571851,34.192943,91303
+FedEx Ship Center Carlsbad CLDA,Package Delivery Center,"2495 Faraday Ave, Carlsbad, CA 92010",-117.269069,33.135455,92010
+FedEx Ship Center Chico CICA,Package Delivery Center,"1330 Fortress St, Chico, CA 95973",-121.855661,39.803866,95973
+FedEx Ship Center Clovis FATA,Package Delivery Center,"3225 Villa Ave, Clovis, CA 93612",-119.712619,36.792167,93612
+FedEx Ship Center Costa Mesa APVA,Package Delivery Center,"1650 Sunflower Ave, Costa Mesa, CA 92626",-117.918669,33.641132,92626
+FedEx Ship Center Culver City CCDA,Package Delivery Center,"3700 S Robertson Blvd, Culver City, CA 90232",-118.389849,34.027055,90232
+FedEx Ship Center Emeryville JEMA,Package Delivery Center,"1600 63rd St, Emeryville, CA 94608",-122.285247,37.831316,94608
+FedEx Ship Center Eureka EKAA,Package Delivery Center,"1605 Short St, Eureka, CA 95501",-124.18006,40.792469,95501
+FedEx Ship Center Fullerton FULA,Package Delivery Center,"2500 Kimberly Ave, Fullerton, CA 92831",-117.884724,33.86322,92831
+FedEx Ship Center Gardena TOAA,Package Delivery Center,"18115 S Main St, Gardena, CA 90248",-118.308962,33.888349,90248
+FedEx Ship Center Goleta SBAA,Package Delivery Center,"495 S Fairview Ave C, Goleta, CA 93117",-119.832113,34.432213,93117
+FedEx Ship Center Grass Valley OVEA,Package Delivery Center,"109 Spring Hill Dr, Grass Valley, CA 95945",-121.041928,39.224257,95945
+FedEx Ship Center Hawthorne HHRA,Package Delivery Center,"12600 S Prairie Ave, Hawthorne, CA 90250",-118.340866,33.918382,90250
+FedEx Ship Center Imperial IPLA,Package Delivery Center,"2451 Access Way, Imperial, CA 92251",-115.571076,32.826443,92251
+FedEx Ship Center City Of Industry POCA,Package Delivery Center,"1081 Fullerton Rd, City Of Industry, CA 91748",-117.958675,34.019734,91748
+FedEx Ship Center Irvine NZJA,Package Delivery Center,"7000 Barranca Pky, Irvine, CA 92618",-117.764004,33.660455,92618
+FedEx Ship Center Lancaster WJFA,Package Delivery Center,"133 East Ave K-6, Lancaster, CA 93535",-118.127182,34.669748,93535
+FedEx Ship Center Los Angeles VXCE,Package Delivery Center,"11221 S Hindry Ave, Los Angeles, CA 90045",-118.372803,33.932479,90045
+FedEx Ship Center Los Angeles EMTA,Package Delivery Center,"3333 S Grand Ave, Los Angeles, CA 90007",-118.276568,34.021358,90007
+FedEx Ship Center Los Angeles JGXA,Package Delivery Center,"2000 N San Fernando Rd, Los Angeles, CA 90065",-118.238046,34.100914,90065
+FedEx Ship Center Marina Del Rey SMOA,Package Delivery Center,"4170 Del Rey Ave, Marina Del Rey, CA 90292",-118.451745,33.980289,90292
+FedEx Ship Center Menlo Park PAOA,Package Delivery Center,"3750 Haven Ave, Menlo Park, CA 94025",-122.17959,37.486539,94025
+FedEx Ship Center Merced MCEA,Package Delivery Center,"95 Macready Dr Circle, Merced, CA 95340",-120.412716,37.344449,95340
+FedEx Ship Center Modesto MODA,Package Delivery Center,"1407 Carpenter Lane, Modesto, CA 95351",-121.029589,37.650405,95351
+FedEx Ship Center Monterey MRYA,Package Delivery Center,"1 Lower Ragsdale Dr, Monterey, CA 93940",-121.818428,36.576351,93940
+FedEx Ship Center North Hills VNYA,Package Delivery Center,"16633 Schoenborn St, North Hills, CA 91343",-118.485224,34.222504,91343
+FedEx Ship Center Oakland JBSA,Package Delivery Center,"8455 Pardee Dr, Oakland, CA 94621",-122.271114,37.804364,94621
+FedEx Ship Center Ontario ONTA,Package Delivery Center,"3371 E Francis St, Ontario, CA 91761",-117.579093,34.041438,91761
+FedEx Ship Center Oxnard OXRA,Package Delivery Center,"3150 N Paseo Mercado, Oxnard, CA 93036",-119.146243,34.228595,93036
+FedEx Ship Center Pacheco CCRA,Package Delivery Center,"115 Center Ave, Pacheco, CA 94553",-122.064544,37.983575,94553
+FedEx Ship Center Palm Springs PSPA,Package Delivery Center,"1111 Bird Center Dr, Palm Springs, CA 92262",-116.505388,33.839036,92262
+FedEx Ship Center Petaluma NOTA,Package Delivery Center,"2275 S McDowell Blvd Ext, Petaluma, CA 94954",-122.587508,38.232429,94954
+FedEx Ship Center Pleasanton LVKA,Package Delivery Center,"7275 Johnson Dr, Pleasanton, CA 94588",-121.914669,37.69114,94588
+FedEx Ship Center Rancho Cordova MHRA,Package Delivery Center,"11140 Sun Center Dr, Rancho Cordova, CA 95670",-121.302728,38.589072,95670
+FedEx Ship Center Redding RDDA,Package Delivery Center,"6775 Woodrum Circle, Redding, CA 96002",-122.300434,40.504396,96002
+FedEx Ship Center Ridgecrest IYKA,Package Delivery Center,"737 W Ridgecrest Blvd, Ridgecrest, CA 93555",-117.685317,35.621175,93555
+FedEx Ship Center Rocklin AUNA,Package Delivery Center,"1500 Nichols Dr, Rocklin, CA 95765",-121.312763,38.810831,95765
+FedEx Ship Center Sacramento SMFA,Package Delivery Center,"3950 Development Dr, Sacramento, CA 95838",-121.460488,38.639395,95838
+FedEx Ship Center Sacramento SMFE,Package Delivery Center,"6733 Lindbergh Dr F, Sacramento, CA 95837",-121.591068,38.693486,95837
+FedEx Ship Center San Diego JBKA,Package Delivery Center,"1425 Corporate Center Dr, San Diego, CA 92154",-117.003715,32.57289,92154
+FedEx Ship Center San Diego MYFA,Package Delivery Center,"9192 Kearny Villa Court, San Diego, CA 92123",-117.133193,32.835862,92123
+FedEx Ship Center San Diego SANA,Package Delivery Center,"10585 Heater Court, San Diego, CA 92121",-117.172666,32.909682,92121
+FedEx Ship Center San Diego SDMA,Package Delivery Center,"1650 47th St, San Diego, CA 92102",-117.094448,32.722643,92102
+FedEx Ship Center San Francisco PCCE,Package Delivery Center,"350 Sansome St, San Francisco, CA 94104",-122.401001,37.793783,94104
+FedEx Ship Center San Francisco SFOA,Package Delivery Center,"1875 Marin St, San Francisco, CA 94124",-122.394575,37.747843,94124
+FedEx Ship Center San Jose RHVA,Package Delivery Center,"710 Dado St, San Jose, CA 95131",-121.912286,37.387964,95131
+FedEx Ship Center San Luis Obispo SBPA,Package Delivery Center,"705 Fiero Lane, San Luis Obispo, CA 93401",-120.643525,35.243963,93401
+FedEx Ship Center San Rafael SRFA,Package Delivery Center,"1637 E Francisco Blvd, San Rafael, CA 94901",-122.493396,37.950034,94901
+FedEx Ship Center Santa Fe Springs JDYA,Package Delivery Center,"9339 Ann St, Santa Fe Springs, CA 90670",-118.085345,33.947236,90670
+FedEx Ship Center Santa Maria SMXA,Package Delivery Center,"3070 Skyway Dr, Santa Maria, CA 93455",-120.450395,34.903777,93455
+FedEx Ship Center Signal Hill LGBA,Package Delivery Center,"2451 Palm Dr, Signal Hill, CA 90755",-118.167846,33.804461,90755
+FedEx Ship Center Soquel SRUA,Package Delivery Center,"2660 Research Park Dr, Soquel, CA 95073",-121.968088,36.983685,95073
+FedEx Ship Center South San Francisco SQLA,Package Delivery Center,"900 Gateway Blvd, South San Francisco, CA 94080",-122.393488,37.66121,94080
+FedEx Ship Center Stockton SCKA,Package Delivery Center,"935 Performance Dr, Stockton, CA 95206",-121.259465,37.899682,95206
+FedEx Ship Center Sun Valley BURA,Package Delivery Center,"11340 Sherman Way, Sun Valley, CA 91352",-118.381256,34.22793,91352
+FedEx Ship Center Sunnyvale COAA,Package Delivery Center,"1286 Lawrence Station Rd, Sunnyvale, CA 94089",-121.995753,37.408242,94089
+FedEx Ship Center Temecula HMTA,Package Delivery Center,"27260 Jefferson Ave, Temecula, CA 92590",-117.168574,33.525041,92590
+FedEx Ship Center Ukiah UKIA,Package Delivery Center,"1329 S State St, Ukiah, CA 95482",-123.204975,39.134188,95482
+FedEx Ship Center Victorville DAGA,Package Delivery Center,"12212 Industrial Blvd, Victorville, CA 92392",-117.283361,34.471658,92392
+FedEx Ship Center Visalia VISA,Package Delivery Center,"9510 W Airport Dr, Visalia, CA 93277",-119.396881,36.326713,93277
+FedEx Ship Center Yuba City MYVA,Package Delivery Center,"857 Gray Ave, Yuba City, CA 95991",-121.629083,39.136416,95991
