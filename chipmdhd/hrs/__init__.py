@@ -2,9 +2,9 @@ import abc
 from ..econ import Dollar
 
 
-class HydrogenRefuelingStation(object):
-    def __init__(self, **params):
-        pass
+# Default HRS design parameters
+DEFAULT_Cp_Cv_RATIO = 1.42
+
 
 
 class CostItem(abc.ABC):
@@ -29,3 +29,12 @@ class CostItem(abc.ABC):
         Operating cost per unit of product (e.g. kg of H2).
         """
         pass
+
+
+class HydrogenRefuelingSite(CostItem):
+    def __init__(self, equipment_list=[], **params):
+        self.equipment_list = equipment_list
+        self.params = {k: v for k, v in params.items()}
+    
+    def get_param(self, param_name):
+        return self.params.get(param_name)
