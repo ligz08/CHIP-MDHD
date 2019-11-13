@@ -1,12 +1,12 @@
-from . import DEFAULT_MODELING_YEAR, DEFAULT_INFLATION_RATE
+from . import DEFAULT_MODELING_YEAR, DEFAULT_DISCOUNT_RATE
 
 class Dollar(object):
     default_baseyear = DEFAULT_MODELING_YEAR
-    inflation_rate = DEFAULT_INFLATION_RATE
+    discount_rate = DEFAULT_DISCOUNT_RATE
     
     @property
     def rate(self):
-        return 1 + self.inflation_rate
+        return 1 + self.discount_rate
 
     def __init__(self, amount=0.0, dollaryear=default_baseyear):
         self.amount = amount
